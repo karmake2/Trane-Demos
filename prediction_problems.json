@@ -1,0 +1,532 @@
+{
+    "prediction_problems": [
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "EqFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "NeqFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "NeqFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "NeqRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "LessFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "GreaterFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "GreaterFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "NeqRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "NeqFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "GreaterFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "id",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "passenger_count",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {}
+                }
+            ]
+        }
+    ],
+    "table_meta": {
+        "tables": [
+            {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "id"
+                    },
+                    {
+                        "name": "vendor_id",
+                        "type": "number",
+                        "subtype": "integer"
+                    },
+                    {
+                        "name": "pickup_datetime",
+                        "type": "datetime"
+                    },
+                    {
+                        "name": "passenger_count",
+                        "type": "number",
+                        "subtype": "integer"
+                    },
+                    {
+                        "name": "pickup_longitude",
+                        "type": "number",
+                        "subtype": "float"
+                    },
+                    {
+                        "name": "pickup_latitude",
+                        "type": "number",
+                        "subtype": "float"
+                    },
+                    {
+                        "name": "dropoff_longitude",
+                        "type": "number",
+                        "subtype": "float"
+                    },
+                    {
+                        "name": "dropoff_latitude",
+                        "type": "number",
+                        "subtype": "float"
+                    },
+                    {
+                        "name": "store_and_fwd_flag",
+                        "type": "categorical",
+                        "subtype": "categorical"
+                    }
+                ]
+            }
+        ]
+    },
+    "entity_id_column": "id",
+    "label_generating_column": "passenger_count",
+    "time_column": "pickup_datetime"
+}
