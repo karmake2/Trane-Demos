@@ -41,6 +41,18 @@
                         "float"
                     ],
                     "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        null,
+                        null
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
                 }
             ]
         }
