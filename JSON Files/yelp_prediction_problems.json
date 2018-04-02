@@ -14,1562 +14,6 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
                     "SubopType": "EqRowOp",
                     "column_name": "stars",
                     "iotype": [
@@ -1592,428 +36,24 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "SumAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
+                    "SubopType": "LastAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "boolean",
                         "boolean"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
             ]
         },
         {
@@ -2059,19 +99,17 @@
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2088,21 +126,23 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
+                    "SubopType": "LessRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "integer"
+                        "boolean"
                     ],
-                    "param_values": {}
+                    "param_values": {
+                        "threshold": 0
+                    }
                 },
                 {
                     "OpType": "TransformationOpBase",
                     "SubopType": "IdentityTransformationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "integer",
-                        "integer"
+                        "boolean",
+                        "boolean"
                     ],
                     "param_values": {}
                 },
@@ -2111,23 +151,21 @@
                     "SubopType": "LastAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "integer",
-                        "integer"
+                        "boolean",
+                        "boolean"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
             ]
         },
         {
@@ -2161,64 +199,6 @@
                     "iotype": [
                         "boolean",
                         "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
                     ],
                     "param_values": {}
                 },
@@ -2227,23 +207,21 @@
                     "SubopType": "SumAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "integer",
+                        "boolean",
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "float"
             ]
         },
         {
@@ -2280,26 +258,24 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
+                    "SubopType": "SumAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "integer"
+                        "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2316,48 +292,44 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
+                    "SubopType": "IdentityRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "boolean"
+                        "integer"
                     ],
-                    "param_values": {
-                        "threshold": 0
-                    }
+                    "param_values": {}
                 },
                 {
                     "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
+                    "SubopType": "DiffTransformationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
-                        "boolean"
+                        "integer",
+                        "integer"
                     ],
                     "param_values": {}
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
+                    "SubopType": "LMFAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
-                        "boolean"
+                        "integer",
+                        "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2403,19 +375,73 @@
                         "float"
                     ],
                     "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
+                    "SubopType": "NeqRowOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "boolean"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2442,243 +468,11 @@
                 },
                 {
                     "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
                     "SubopType": "IdentityTransformationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
-                        "boolean"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
                         "integer",
                         "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "boolean"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "boolean"
                     ],
                     "param_values": {}
                 },
@@ -2687,23 +481,21 @@
                     "SubopType": "LastAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
-                        "boolean"
+                        "integer",
+                        "integer"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
             ]
         },
         {
@@ -2720,7 +512,117 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "LessRowOp",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "NeqRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
@@ -2749,19 +651,17 @@
                         "boolean"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
             ]
         },
         {
@@ -2778,11 +678,11 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
+                    "SubopType": "NeqRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "integer"
+                        "boolean"
                     ],
                     "param_values": {
                         "threshold": 0
@@ -2793,33 +693,31 @@
                     "SubopType": "ObjectFrequencyTransformationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "integer",
+                        "boolean",
                         "integer"
                     ],
                     "param_values": {}
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "LMFAggregationOp",
+                    "SubopType": "CountAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2865,19 +763,17 @@
                         "integer"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
             ]
         },
         {
@@ -2894,17 +790,19 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
+                    "SubopType": "ExpRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
                         "integer"
                     ],
-                    "param_values": {}
+                    "param_values": {
+                        "threshold": 0
+                    }
                 },
                 {
                     "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
+                    "SubopType": "ObjectFrequencyTransformationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
@@ -2914,11 +812,35 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
+                    "SubopType": "SumAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "integer"
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
                     ],
                     "param_values": {}
                 },
@@ -2927,13 +849,43 @@
                     "SubopType": "GreaterRowOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "boolean"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -2979,19 +931,17 @@
                         "boolean"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
             ]
         },
         {
@@ -3008,71 +958,15 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
+                    "SubopType": "ExpRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "boolean"
+                        "integer"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "boolean",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
                 },
                 {
                     "OpType": "TransformationOpBase",
@@ -3086,7 +980,53 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "LastAggregationOp",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
@@ -3095,17 +1035,137 @@
                     "param_values": {}
                 },
                 {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "GreaterRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
             ]
         },
         {
@@ -3151,19 +1211,17 @@
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3180,19 +1238,17 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
+                    "SubopType": "IdentityRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
                         "integer"
                     ],
-                    "param_values": {
-                        "threshold": 0
-                    }
+                    "param_values": {}
                 },
                 {
                     "OpType": "TransformationOpBase",
-                    "SubopType": "DiffTransformationOp",
+                    "SubopType": "ObjectFrequencyTransformationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
@@ -3202,26 +1258,24 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
+                    "SubopType": "LMFAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3238,7 +1292,7 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "EqRowOp",
+                    "SubopType": "NeqRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
@@ -3250,36 +1304,34 @@
                 },
                 {
                     "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
+                    "SubopType": "ObjectFrequencyTransformationOp",
                     "column_name": "stars",
                     "iotype": [
                         "boolean",
-                        "boolean"
+                        "integer"
                     ],
                     "param_values": {}
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
+                    "SubopType": "FirstAggregationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
-                        "float"
+                        "integer",
+                        "integer"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
             ]
         },
         {
@@ -3323,19 +1375,685 @@
                         "float"
                     ],
                     "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "LessRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "boolean"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
                 },
                 {
                     "OpType": "RowOpBase",
                     "SubopType": "GreaterRowOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "boolean"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "LessRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "LessRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "NeqRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "SumAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3381,77 +2099,17 @@
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "IdentityTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3488,140 +2146,24 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
+                    "SubopType": "LMFAggregationOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "IdentityRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "FirstAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
-            ]
-        },
-        {
-            "operations": [
-                {
-                    "OpType": "FilterOpBase",
-                    "SubopType": "AllFilterOp",
-                    "column_name": "user_id",
-                    "iotype": [
-                        "text",
-                        "text"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "ExpRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                },
-                {
-                    "OpType": "TransformationOpBase",
-                    "SubopType": "ObjectFrequencyTransformationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "integer"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "AggregationOpBase",
-                    "SubopType": "CountAggregationOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        "integer",
-                        "float"
-                    ],
-                    "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
-                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3660,6 +2202,174 @@
                 },
                 {
                     "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "LessRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "CountAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "EqRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "LessRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "boolean"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "boolean",
+                        "boolean"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
                     "SubopType": "SumAggregationOp",
                     "column_name": "stars",
                     "iotype": [
@@ -3667,19 +2377,125 @@
                         "float"
                     ],
                     "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "boolean",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
+                    "SubopType": "IdentityRowOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "integer"
                     ],
-                    "param_values": {
-                        "threshold": 0
-                    }
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "IdentityTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "FirstAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
             ]
         },
         {
@@ -3725,19 +2541,17 @@
                         "float"
                     ],
                     "param_values": {}
-                },
-                {
-                    "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
-                    "column_name": "stars",
-                    "iotype": [
-                        null,
-                        null
-                    ],
-                    "param_values": {
-                        "threshold": 0
-                    }
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "boolean",
+                "integer",
+                "float"
             ]
         },
         {
@@ -3754,11 +2568,11 @@
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "NeqRowOp",
+                    "SubopType": "ExpRowOp",
                     "column_name": "stars",
                     "iotype": [
                         "integer",
-                        "boolean"
+                        "integer"
                     ],
                     "param_values": {
                         "threshold": 0
@@ -3769,7 +2583,61 @@
                     "SubopType": "ObjectFrequencyTransformationOp",
                     "column_name": "stars",
                     "iotype": [
-                        "boolean",
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LMFAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "float"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "IdentityRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
                         "integer"
                     ],
                     "param_values": {}
@@ -3783,19 +2651,129 @@
                         "integer"
                     ],
                     "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
                 },
                 {
                     "OpType": "RowOpBase",
-                    "SubopType": "GreaterRowOp",
+                    "SubopType": "ExpRowOp",
                     "column_name": "stars",
                     "iotype": [
-                        null,
-                        null
+                        "integer",
+                        "integer"
                     ],
                     "param_values": {
                         "threshold": 0
                     }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "DiffTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
                 }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
+            ]
+        },
+        {
+            "operations": [
+                {
+                    "OpType": "FilterOpBase",
+                    "SubopType": "AllFilterOp",
+                    "column_name": "user_id",
+                    "iotype": [
+                        "text",
+                        "text"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "RowOpBase",
+                    "SubopType": "ExpRowOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {
+                        "threshold": 0
+                    }
+                },
+                {
+                    "OpType": "TransformationOpBase",
+                    "SubopType": "ObjectFrequencyTransformationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                },
+                {
+                    "OpType": "AggregationOpBase",
+                    "SubopType": "LastAggregationOp",
+                    "column_name": "stars",
+                    "iotype": [
+                        "integer",
+                        "integer"
+                    ],
+                    "param_values": {}
+                }
+            ],
+            "filter_column_order_of_types": [
+                "text",
+                "text"
+            ],
+            "label_generating_column_order_of_types": [
+                "integer",
+                "integer",
+                "integer",
+                "integer"
             ]
         }
     ],

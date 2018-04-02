@@ -1,0 +1,358 @@
+DEBUG:matplotlib:CACHEDIR=/Users/Alexander/.matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /Users/Alexander/.matplotlib/fontList.json
+DEBUG:matplotlib.backends:backend module://ipykernel.pylab.backend_inline version unknown
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:Prediction Problem Generated: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->IdentityTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->IdentityRowOp(DURATION)->DiffTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->EqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->IdentityTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->LessRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->FirstAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->ExpRowOp(DURATION)->DiffTransformationOp(DURATION)->CountAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->NeqRowOp(DURATION)->ObjectFrequencyTransformationOp(DURATION)->LastAggregationOp(DURATION) 
+
+DEBUG:root:In Labeller and beginning exuection of problem: AllFilterOp(PATIENT_ID)->GreaterRowOp(DURATION)->IdentityTransformationOp(DURATION)->SumAggregationOp(DURATION) 
+
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 2
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff equal old[2:2] new[2:2]
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 1
+DEBUG:root:diff replace old[1:2] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 2
+DEBUG:root:diff replace old[1:1] new[1:2]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 2
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff equal old[2:2] new[2:2]
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 1
+DEBUG:root:diff replace old[1:2] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 1
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 2
+DEBUG:root:diff replace old[1:1] new[1:2]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff parser end
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 2
+DEBUG:root:diff replace old[1:1] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff equal old[2:2] new[2:2]
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 2, new: 1
+DEBUG:root:diff replace old[1:2] new[1:1]
+DEBUG:root:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:root:diff parser end
+DEBUG:root:diff parser start
+DEBUG:root:diff parser calculated
+DEBUG:root:diff: line_lengths old: 1, new: 2
+DEBUG:root:diff replace old[1:1] new[1:2]
+DEBUG:root:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:root:diff parser end
