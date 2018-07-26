@@ -1,0 +1,3 @@
+DEBUG:matplotlib:CACHEDIR=/Users/Alexander/.matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /Users/Alexander/.matplotlib/fontList.json
+DEBUG:matplotlib.backends:backend module://ipykernel.pylab.backend_inline version unknown
