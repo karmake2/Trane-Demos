@@ -18,7 +18,7 @@ import scikitplot as skplt
 from dateutil import parser
 
 def save_obj(obj, name):
-    with open('../pickled_objects/Saudi_Healthcare/entity=hosp_code'+ name + '.pkl', 'wb') as f:
+    with open('../pickled_objects/Healthcare/entity=hosp_code'+ name + '.pkl', 'wb') as f:
         pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
 def load_obj(name):
     try:
@@ -80,17 +80,17 @@ TIME_COLUMN = 'ADMIT_DATE'
 LABEL_GENERATING_COLUMN = 'DURATION'
 FILTER_COLUMN = 'PATIENT_ID'
 DF[TIME_COLUMN] = DF[TIME_COLUMN].apply(parser.parse)
-probs = load_obj('saudi_health_prediction_problems')
+probs = load_obj('health_prediction_problems')
 if probs == None:
     generator = trane.PredictionProblemGenerator(
-        TM, 
-        ENTITY_ID_COLUMN, 
-        LABEL_GENERATING_COLUMN, 
-        TIME_COLUMN, 
+        TM,
+        ENTITY_ID_COLUMN,
+        LABEL_GENERATING_COLUMN,
+        TIME_COLUMN,
         FILTER_COLUMN)
     probs = generator.generate(DF)
-    save_obj(probs, 'saudi_health_prediction_problems')
+    save_obj(probs, 'health_prediction_problems')
 
-nl_scrips = trane.generate_nl_description(probs, TM, ENTITY_ID_COLUMN, LABEL_GENERATING_COLUMN, 
+nl_scrips = trane.generate_nl_description(probs, TM, ENTITY_ID_COLUMN, LABEL_GENERATING_COLUMN,
                               TIME_COLUMN, None)
 
