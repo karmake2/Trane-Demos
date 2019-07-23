@@ -1,0 +1,7 @@
+trending_date|date when the video is trending
+channel_title|title of channel 
+category_id|category of video
+views|number of video views
+likes|number of video likes
+dislikes|number of video dislikes
+comment_count|number of comments

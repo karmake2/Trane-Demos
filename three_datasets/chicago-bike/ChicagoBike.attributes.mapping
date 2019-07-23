@@ -1,0 +1,17 @@
+
+Attributes
+-----------
+date|datetime|date of a trip
+hour|numeric|the hour when the trip starts (from 0 to 23)
+usetype|numeric|user type (Customer or Subscriber)
+gender|categorical|gender
+tripduration|numeric|trip duration in minute
+temperature|numeric|temperature
+dpcapacity_start|numeric|number of docks in origin station
+dpcapacity_end|numeric|number of docks in destination station
+
+
+Entities
+--------
+from_station_id|entity|origin station
+to_station_id|entity|destination station

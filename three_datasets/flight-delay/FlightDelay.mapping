@@ -1,0 +1,19 @@
+DATE|date of flight departure
+DAY_OF_WEEK|day of the week
+AIRLINE|airline company
+FLIGHT_NUMBER|ID number of flight 
+TAIL_NUMBER|ID number of aircraft
+ORIGIN_AIRPORT|origin airport 
+DESTINATION_AIRPORT|destination airport
+SCHEDULED_DEPARTURE_HOUR|hour of flight departure  
+SCHEDULED_TIME|duration of scheduled trip (in minutes)
+ELAPSED_TIME|duration of actual trip (in minutes)
+DEPARTURE_DELAY|delay for departure (in minutes)
+ARRIVAL_DELAY|delay for arrival (in minutes)
+CANCELLED|status of flight cancellation
+CANCELLATION_REASON|reason for flight cancellation
+AIR_SYSTEM_DELAY|delay caused by air system (in minutes)
+SECURITY_DELAY|delay caused by security (in minutes)
+AIRLINE_DELAY|delay caused by airline (in minutes)
+LATE_AIRCRAFT_DELAY|delay caused by late aircarft (in minutes)
+WEATHER_DELAY|delay caused by weather (in minutes)

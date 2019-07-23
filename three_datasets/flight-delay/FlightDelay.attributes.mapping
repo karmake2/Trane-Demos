@@ -1,0 +1,26 @@
+Attributes
+----------
+
+DATE|datetime|date of flight departure
+DAY_OF_WEEK|categorical|day of the week
+FLIGHT_NUMBER|string|ID number of flight 
+TAIL_NUMBER|string|ID number of aircraft
+SCHEDULED_DEPARTURE_HOUR|numeric|hour of flight departure  
+SCHEDULED_TIME|numeric|duration of scheduled trip (in minutes)
+ELAPSED_TIME|numeric|duration of actual trip (in minutes)
+DEPARTURE_DELAY|numeric|delay for departure (in minutes)
+ARRIVAL_DELAY|numeric|delay for arrival (in minutes)
+CANCELLED|categorical|status of flight cancellation
+CANCELLATION_REASON|categorical|reason for flight cancellation
+AIR_SYSTEM_DELAY|numeric|delay caused by air system (in minutes)
+SECURITY_DELAY|numeric|delay caused by security (in minutes)
+AIRLINE_DELAY|numeric|delay caused by airline (in minutes)
+LATE_AIRCRAFT_DELAY|numeric|delay caused by late aircarft (in minutes)
+WEATHER_DELAY|numeric|delay caused by weather (in minutes)
+
+
+Entities
+--------
+AIRLINE|airline company
+ORIGIN_AIRPORT|airport of origin
+DESTINATION_AIRPORT|airport of destination

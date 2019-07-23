@@ -1,0 +1,14 @@
+
+Attributes
+----------
+trending_date|datetime|date when the video is trending
+views|numeric|number of video views
+likes|numeric|number of video likes
+dislikes|numeric|number of video dislikes
+comment_count|numeric|number of comments
+
+
+Entities
+--------
+channel_title|title of channel
+category_id|category of video

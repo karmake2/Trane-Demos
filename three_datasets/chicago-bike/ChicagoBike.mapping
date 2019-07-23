@@ -1,0 +1,10 @@
+date|date of a trip
+hour|the hour when the trip starts (from 0 to 23)
+usetype|user type (Customer or Subscriber)
+gender|gender
+tripduration|trip duration in minute
+temperature|temperature
+from_station_id|origin station
+dpcapacity_start|number of docks in origin station
+to_station_id|destination station
+dpcapacity_end|number of docks in destination station
