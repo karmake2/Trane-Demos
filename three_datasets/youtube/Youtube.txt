@@ -1,0 +1,643 @@
+For each <category_id> predict the number of records
+For each <category_id> predict the number of records with <views> greater than __
+For each <category_id> predict the number of records with <likes> greater than __
+For each <category_id> predict the number of records with <dislikes> greater than __
+For each <category_id> predict the number of records with <comment_count> greater than __
+For each <category_id> predict the number of records with <channel_title> equal to __
+For each <category_id> predict the number of records with <channel_title> not equal to __
+For each <category_id> predict the number of records with <views> less than __
+For each <category_id> predict the number of records with <likes> less than __
+For each <category_id> predict the number of records with <dislikes> less than __
+For each <category_id> predict the number of records with <comment_count> less than __
+For each <category_id> predict the total <views> in all related records
+For each <category_id> predict the total <likes> in all related records
+For each <category_id> predict the total <dislikes> in all related records
+For each <category_id> predict the total <comment_count> in all related records
+For each <category_id> predict the total <views> in all related records with <views> greater than __
+For each <category_id> predict the total <likes> in all related records with <views> greater than __
+For each <category_id> predict the total <dislikes> in all related records with <views> greater than __
+For each <category_id> predict the total <comment_count> in all related records with <views> greater than __
+For each <category_id> predict the total <views> in all related records with <likes> greater than __
+For each <category_id> predict the total <likes> in all related records with <likes> greater than __
+For each <category_id> predict the total <dislikes> in all related records with <likes> greater than __
+For each <category_id> predict the total <comment_count> in all related records with <likes> greater than __
+For each <category_id> predict the total <views> in all related records with <dislikes> greater than __
+For each <category_id> predict the total <likes> in all related records with <dislikes> greater than __
+For each <category_id> predict the total <dislikes> in all related records with <dislikes> greater than __
+For each <category_id> predict the total <comment_count> in all related records with <dislikes> greater than __
+For each <category_id> predict the total <views> in all related records with <comment_count> greater than __
+For each <category_id> predict the total <likes> in all related records with <comment_count> greater than __
+For each <category_id> predict the total <dislikes> in all related records with <comment_count> greater than __
+For each <category_id> predict the total <comment_count> in all related records with <comment_count> greater than __
+For each <category_id> predict the total <views> in all related records with <channel_title> equal to __
+For each <category_id> predict the total <likes> in all related records with <channel_title> equal to __
+For each <category_id> predict the total <dislikes> in all related records with <channel_title> equal to __
+For each <category_id> predict the total <comment_count> in all related records with <channel_title> equal to __
+For each <category_id> predict the total <views> in all related records with <channel_title> not equal to __
+For each <category_id> predict the total <likes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the total <dislikes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the total <comment_count> in all related records with <channel_title> not equal to __
+For each <category_id> predict the total <views> in all related records with <views> less than __
+For each <category_id> predict the total <likes> in all related records with <views> less than __
+For each <category_id> predict the total <dislikes> in all related records with <views> less than __
+For each <category_id> predict the total <comment_count> in all related records with <views> less than __
+For each <category_id> predict the total <views> in all related records with <likes> less than __
+For each <category_id> predict the total <likes> in all related records with <likes> less than __
+For each <category_id> predict the total <dislikes> in all related records with <likes> less than __
+For each <category_id> predict the total <comment_count> in all related records with <likes> less than __
+For each <category_id> predict the total <views> in all related records with <dislikes> less than __
+For each <category_id> predict the total <likes> in all related records with <dislikes> less than __
+For each <category_id> predict the total <dislikes> in all related records with <dislikes> less than __
+For each <category_id> predict the total <comment_count> in all related records with <dislikes> less than __
+For each <category_id> predict the total <views> in all related records with <comment_count> less than __
+For each <category_id> predict the total <likes> in all related records with <comment_count> less than __
+For each <category_id> predict the total <dislikes> in all related records with <comment_count> less than __
+For each <category_id> predict the total <comment_count> in all related records with <comment_count> less than __
+For each <category_id> predict the average <views> in all related records
+For each <category_id> predict the average <likes> in all related records
+For each <category_id> predict the average <dislikes> in all related records
+For each <category_id> predict the average <comment_count> in all related records
+For each <category_id> predict the average <views> in all related records with <views> greater than __
+For each <category_id> predict the average <likes> in all related records with <views> greater than __
+For each <category_id> predict the average <dislikes> in all related records with <views> greater than __
+For each <category_id> predict the average <comment_count> in all related records with <views> greater than __
+For each <category_id> predict the average <views> in all related records with <likes> greater than __
+For each <category_id> predict the average <likes> in all related records with <likes> greater than __
+For each <category_id> predict the average <dislikes> in all related records with <likes> greater than __
+For each <category_id> predict the average <comment_count> in all related records with <likes> greater than __
+For each <category_id> predict the average <views> in all related records with <dislikes> greater than __
+For each <category_id> predict the average <likes> in all related records with <dislikes> greater than __
+For each <category_id> predict the average <dislikes> in all related records with <dislikes> greater than __
+For each <category_id> predict the average <comment_count> in all related records with <dislikes> greater than __
+For each <category_id> predict the average <views> in all related records with <comment_count> greater than __
+For each <category_id> predict the average <likes> in all related records with <comment_count> greater than __
+For each <category_id> predict the average <dislikes> in all related records with <comment_count> greater than __
+For each <category_id> predict the average <comment_count> in all related records with <comment_count> greater than __
+For each <category_id> predict the average <views> in all related records with <channel_title> equal to __
+For each <category_id> predict the average <likes> in all related records with <channel_title> equal to __
+For each <category_id> predict the average <dislikes> in all related records with <channel_title> equal to __
+For each <category_id> predict the average <comment_count> in all related records with <channel_title> equal to __
+For each <category_id> predict the average <views> in all related records with <channel_title> not equal to __
+For each <category_id> predict the average <likes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the average <dislikes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the average <comment_count> in all related records with <channel_title> not equal to __
+For each <category_id> predict the average <views> in all related records with <views> less than __
+For each <category_id> predict the average <likes> in all related records with <views> less than __
+For each <category_id> predict the average <dislikes> in all related records with <views> less than __
+For each <category_id> predict the average <comment_count> in all related records with <views> less than __
+For each <category_id> predict the average <views> in all related records with <likes> less than __
+For each <category_id> predict the average <likes> in all related records with <likes> less than __
+For each <category_id> predict the average <dislikes> in all related records with <likes> less than __
+For each <category_id> predict the average <comment_count> in all related records with <likes> less than __
+For each <category_id> predict the average <views> in all related records with <dislikes> less than __
+For each <category_id> predict the average <likes> in all related records with <dislikes> less than __
+For each <category_id> predict the average <dislikes> in all related records with <dislikes> less than __
+For each <category_id> predict the average <comment_count> in all related records with <dislikes> less than __
+For each <category_id> predict the average <views> in all related records with <comment_count> less than __
+For each <category_id> predict the average <likes> in all related records with <comment_count> less than __
+For each <category_id> predict the average <dislikes> in all related records with <comment_count> less than __
+For each <category_id> predict the average <comment_count> in all related records with <comment_count> less than __
+For each <category_id> predict the maximum <views> in all related records
+For each <category_id> predict the maximum <likes> in all related records
+For each <category_id> predict the maximum <dislikes> in all related records
+For each <category_id> predict the maximum <comment_count> in all related records
+For each <category_id> predict the maximum <views> in all related records with <views> greater than __
+For each <category_id> predict the maximum <likes> in all related records with <views> greater than __
+For each <category_id> predict the maximum <dislikes> in all related records with <views> greater than __
+For each <category_id> predict the maximum <comment_count> in all related records with <views> greater than __
+For each <category_id> predict the maximum <views> in all related records with <likes> greater than __
+For each <category_id> predict the maximum <likes> in all related records with <likes> greater than __
+For each <category_id> predict the maximum <dislikes> in all related records with <likes> greater than __
+For each <category_id> predict the maximum <comment_count> in all related records with <likes> greater than __
+For each <category_id> predict the maximum <views> in all related records with <dislikes> greater than __
+For each <category_id> predict the maximum <likes> in all related records with <dislikes> greater than __
+For each <category_id> predict the maximum <dislikes> in all related records with <dislikes> greater than __
+For each <category_id> predict the maximum <comment_count> in all related records with <dislikes> greater than __
+For each <category_id> predict the maximum <views> in all related records with <comment_count> greater than __
+For each <category_id> predict the maximum <likes> in all related records with <comment_count> greater than __
+For each <category_id> predict the maximum <dislikes> in all related records with <comment_count> greater than __
+For each <category_id> predict the maximum <comment_count> in all related records with <comment_count> greater than __
+For each <category_id> predict the maximum <views> in all related records with <channel_title> equal to __
+For each <category_id> predict the maximum <likes> in all related records with <channel_title> equal to __
+For each <category_id> predict the maximum <dislikes> in all related records with <channel_title> equal to __
+For each <category_id> predict the maximum <comment_count> in all related records with <channel_title> equal to __
+For each <category_id> predict the maximum <views> in all related records with <channel_title> not equal to __
+For each <category_id> predict the maximum <likes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the maximum <dislikes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the maximum <comment_count> in all related records with <channel_title> not equal to __
+For each <category_id> predict the maximum <views> in all related records with <views> less than __
+For each <category_id> predict the maximum <likes> in all related records with <views> less than __
+For each <category_id> predict the maximum <dislikes> in all related records with <views> less than __
+For each <category_id> predict the maximum <comment_count> in all related records with <views> less than __
+For each <category_id> predict the maximum <views> in all related records with <likes> less than __
+For each <category_id> predict the maximum <likes> in all related records with <likes> less than __
+For each <category_id> predict the maximum <dislikes> in all related records with <likes> less than __
+For each <category_id> predict the maximum <comment_count> in all related records with <likes> less than __
+For each <category_id> predict the maximum <views> in all related records with <dislikes> less than __
+For each <category_id> predict the maximum <likes> in all related records with <dislikes> less than __
+For each <category_id> predict the maximum <dislikes> in all related records with <dislikes> less than __
+For each <category_id> predict the maximum <comment_count> in all related records with <dislikes> less than __
+For each <category_id> predict the maximum <views> in all related records with <comment_count> less than __
+For each <category_id> predict the maximum <likes> in all related records with <comment_count> less than __
+For each <category_id> predict the maximum <dislikes> in all related records with <comment_count> less than __
+For each <category_id> predict the maximum <comment_count> in all related records with <comment_count> less than __
+For each <category_id> predict the minimum <views> in all related records
+For each <category_id> predict the minimum <likes> in all related records
+For each <category_id> predict the minimum <dislikes> in all related records
+For each <category_id> predict the minimum <comment_count> in all related records
+For each <category_id> predict the minimum <views> in all related records with <views> greater than __
+For each <category_id> predict the minimum <likes> in all related records with <views> greater than __
+For each <category_id> predict the minimum <dislikes> in all related records with <views> greater than __
+For each <category_id> predict the minimum <comment_count> in all related records with <views> greater than __
+For each <category_id> predict the minimum <views> in all related records with <likes> greater than __
+For each <category_id> predict the minimum <likes> in all related records with <likes> greater than __
+For each <category_id> predict the minimum <dislikes> in all related records with <likes> greater than __
+For each <category_id> predict the minimum <comment_count> in all related records with <likes> greater than __
+For each <category_id> predict the minimum <views> in all related records with <dislikes> greater than __
+For each <category_id> predict the minimum <likes> in all related records with <dislikes> greater than __
+For each <category_id> predict the minimum <dislikes> in all related records with <dislikes> greater than __
+For each <category_id> predict the minimum <comment_count> in all related records with <dislikes> greater than __
+For each <category_id> predict the minimum <views> in all related records with <comment_count> greater than __
+For each <category_id> predict the minimum <likes> in all related records with <comment_count> greater than __
+For each <category_id> predict the minimum <dislikes> in all related records with <comment_count> greater than __
+For each <category_id> predict the minimum <comment_count> in all related records with <comment_count> greater than __
+For each <category_id> predict the minimum <views> in all related records with <channel_title> equal to __
+For each <category_id> predict the minimum <likes> in all related records with <channel_title> equal to __
+For each <category_id> predict the minimum <dislikes> in all related records with <channel_title> equal to __
+For each <category_id> predict the minimum <comment_count> in all related records with <channel_title> equal to __
+For each <category_id> predict the minimum <views> in all related records with <channel_title> not equal to __
+For each <category_id> predict the minimum <likes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the minimum <dislikes> in all related records with <channel_title> not equal to __
+For each <category_id> predict the minimum <comment_count> in all related records with <channel_title> not equal to __
+For each <category_id> predict the minimum <views> in all related records with <views> less than __
+For each <category_id> predict the minimum <likes> in all related records with <views> less than __
+For each <category_id> predict the minimum <dislikes> in all related records with <views> less than __
+For each <category_id> predict the minimum <comment_count> in all related records with <views> less than __
+For each <category_id> predict the minimum <views> in all related records with <likes> less than __
+For each <category_id> predict the minimum <likes> in all related records with <likes> less than __
+For each <category_id> predict the minimum <dislikes> in all related records with <likes> less than __
+For each <category_id> predict the minimum <comment_count> in all related records with <likes> less than __
+For each <category_id> predict the minimum <views> in all related records with <dislikes> less than __
+For each <category_id> predict the minimum <likes> in all related records with <dislikes> less than __
+For each <category_id> predict the minimum <dislikes> in all related records with <dislikes> less than __
+For each <category_id> predict the minimum <comment_count> in all related records with <dislikes> less than __
+For each <category_id> predict the minimum <views> in all related records with <comment_count> less than __
+For each <category_id> predict the minimum <likes> in all related records with <comment_count> less than __
+For each <category_id> predict the minimum <dislikes> in all related records with <comment_count> less than __
+For each <category_id> predict the minimum <comment_count> in all related records with <comment_count> less than __
+For each <category_id> predict the majority <channel_title> in all related records
+For each <category_id> predict the majority <channel_title> in all related records with <views> greater than __
+For each <category_id> predict the majority <channel_title> in all related records with <likes> greater than __
+For each <category_id> predict the majority <channel_title> in all related records with <dislikes> greater than __
+For each <category_id> predict the majority <channel_title> in all related records with <comment_count> greater than __
+For each <category_id> predict the majority <channel_title> in all related records with <channel_title> equal to __
+For each <category_id> predict the majority <channel_title> in all related records with <channel_title> not equal to __
+For each <category_id> predict the majority <channel_title> in all related records with <views> less than __
+For each <category_id> predict the majority <channel_title> in all related records with <likes> less than __
+For each <category_id> predict the majority <channel_title> in all related records with <dislikes> less than __
+For each <category_id> predict the majority <channel_title> in all related records with <comment_count> less than __
+For each <channel_title> predict the number of records
+For each <channel_title> predict the number of records with <views> greater than __
+For each <channel_title> predict the number of records with <likes> greater than __
+For each <channel_title> predict the number of records with <dislikes> greater than __
+For each <channel_title> predict the number of records with <comment_count> greater than __
+For each <channel_title> predict the number of records with <category_id> equal to __
+For each <channel_title> predict the number of records with <category_id> not equal to __
+For each <channel_title> predict the number of records with <views> less than __
+For each <channel_title> predict the number of records with <likes> less than __
+For each <channel_title> predict the number of records with <dislikes> less than __
+For each <channel_title> predict the number of records with <comment_count> less than __
+For each <channel_title> predict the total <views> in all related records
+For each <channel_title> predict the total <likes> in all related records
+For each <channel_title> predict the total <dislikes> in all related records
+For each <channel_title> predict the total <comment_count> in all related records
+For each <channel_title> predict the total <views> in all related records with <views> greater than __
+For each <channel_title> predict the total <likes> in all related records with <views> greater than __
+For each <channel_title> predict the total <dislikes> in all related records with <views> greater than __
+For each <channel_title> predict the total <comment_count> in all related records with <views> greater than __
+For each <channel_title> predict the total <views> in all related records with <likes> greater than __
+For each <channel_title> predict the total <likes> in all related records with <likes> greater than __
+For each <channel_title> predict the total <dislikes> in all related records with <likes> greater than __
+For each <channel_title> predict the total <comment_count> in all related records with <likes> greater than __
+For each <channel_title> predict the total <views> in all related records with <dislikes> greater than __
+For each <channel_title> predict the total <likes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the total <dislikes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the total <comment_count> in all related records with <dislikes> greater than __
+For each <channel_title> predict the total <views> in all related records with <comment_count> greater than __
+For each <channel_title> predict the total <likes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the total <dislikes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the total <comment_count> in all related records with <comment_count> greater than __
+For each <channel_title> predict the total <views> in all related records with <category_id> equal to __
+For each <channel_title> predict the total <likes> in all related records with <category_id> equal to __
+For each <channel_title> predict the total <dislikes> in all related records with <category_id> equal to __
+For each <channel_title> predict the total <comment_count> in all related records with <category_id> equal to __
+For each <channel_title> predict the total <views> in all related records with <category_id> not equal to __
+For each <channel_title> predict the total <likes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the total <dislikes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the total <comment_count> in all related records with <category_id> not equal to __
+For each <channel_title> predict the total <views> in all related records with <views> less than __
+For each <channel_title> predict the total <likes> in all related records with <views> less than __
+For each <channel_title> predict the total <dislikes> in all related records with <views> less than __
+For each <channel_title> predict the total <comment_count> in all related records with <views> less than __
+For each <channel_title> predict the total <views> in all related records with <likes> less than __
+For each <channel_title> predict the total <likes> in all related records with <likes> less than __
+For each <channel_title> predict the total <dislikes> in all related records with <likes> less than __
+For each <channel_title> predict the total <comment_count> in all related records with <likes> less than __
+For each <channel_title> predict the total <views> in all related records with <dislikes> less than __
+For each <channel_title> predict the total <likes> in all related records with <dislikes> less than __
+For each <channel_title> predict the total <dislikes> in all related records with <dislikes> less than __
+For each <channel_title> predict the total <comment_count> in all related records with <dislikes> less than __
+For each <channel_title> predict the total <views> in all related records with <comment_count> less than __
+For each <channel_title> predict the total <likes> in all related records with <comment_count> less than __
+For each <channel_title> predict the total <dislikes> in all related records with <comment_count> less than __
+For each <channel_title> predict the total <comment_count> in all related records with <comment_count> less than __
+For each <channel_title> predict the average <views> in all related records
+For each <channel_title> predict the average <likes> in all related records
+For each <channel_title> predict the average <dislikes> in all related records
+For each <channel_title> predict the average <comment_count> in all related records
+For each <channel_title> predict the average <views> in all related records with <views> greater than __
+For each <channel_title> predict the average <likes> in all related records with <views> greater than __
+For each <channel_title> predict the average <dislikes> in all related records with <views> greater than __
+For each <channel_title> predict the average <comment_count> in all related records with <views> greater than __
+For each <channel_title> predict the average <views> in all related records with <likes> greater than __
+For each <channel_title> predict the average <likes> in all related records with <likes> greater than __
+For each <channel_title> predict the average <dislikes> in all related records with <likes> greater than __
+For each <channel_title> predict the average <comment_count> in all related records with <likes> greater than __
+For each <channel_title> predict the average <views> in all related records with <dislikes> greater than __
+For each <channel_title> predict the average <likes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the average <dislikes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the average <comment_count> in all related records with <dislikes> greater than __
+For each <channel_title> predict the average <views> in all related records with <comment_count> greater than __
+For each <channel_title> predict the average <likes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the average <dislikes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the average <comment_count> in all related records with <comment_count> greater than __
+For each <channel_title> predict the average <views> in all related records with <category_id> equal to __
+For each <channel_title> predict the average <likes> in all related records with <category_id> equal to __
+For each <channel_title> predict the average <dislikes> in all related records with <category_id> equal to __
+For each <channel_title> predict the average <comment_count> in all related records with <category_id> equal to __
+For each <channel_title> predict the average <views> in all related records with <category_id> not equal to __
+For each <channel_title> predict the average <likes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the average <dislikes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the average <comment_count> in all related records with <category_id> not equal to __
+For each <channel_title> predict the average <views> in all related records with <views> less than __
+For each <channel_title> predict the average <likes> in all related records with <views> less than __
+For each <channel_title> predict the average <dislikes> in all related records with <views> less than __
+For each <channel_title> predict the average <comment_count> in all related records with <views> less than __
+For each <channel_title> predict the average <views> in all related records with <likes> less than __
+For each <channel_title> predict the average <likes> in all related records with <likes> less than __
+For each <channel_title> predict the average <dislikes> in all related records with <likes> less than __
+For each <channel_title> predict the average <comment_count> in all related records with <likes> less than __
+For each <channel_title> predict the average <views> in all related records with <dislikes> less than __
+For each <channel_title> predict the average <likes> in all related records with <dislikes> less than __
+For each <channel_title> predict the average <dislikes> in all related records with <dislikes> less than __
+For each <channel_title> predict the average <comment_count> in all related records with <dislikes> less than __
+For each <channel_title> predict the average <views> in all related records with <comment_count> less than __
+For each <channel_title> predict the average <likes> in all related records with <comment_count> less than __
+For each <channel_title> predict the average <dislikes> in all related records with <comment_count> less than __
+For each <channel_title> predict the average <comment_count> in all related records with <comment_count> less than __
+For each <channel_title> predict the maximum <views> in all related records
+For each <channel_title> predict the maximum <likes> in all related records
+For each <channel_title> predict the maximum <dislikes> in all related records
+For each <channel_title> predict the maximum <comment_count> in all related records
+For each <channel_title> predict the maximum <views> in all related records with <views> greater than __
+For each <channel_title> predict the maximum <likes> in all related records with <views> greater than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <views> greater than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <views> greater than __
+For each <channel_title> predict the maximum <views> in all related records with <likes> greater than __
+For each <channel_title> predict the maximum <likes> in all related records with <likes> greater than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <likes> greater than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <likes> greater than __
+For each <channel_title> predict the maximum <views> in all related records with <dislikes> greater than __
+For each <channel_title> predict the maximum <likes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <dislikes> greater than __
+For each <channel_title> predict the maximum <views> in all related records with <comment_count> greater than __
+For each <channel_title> predict the maximum <likes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <comment_count> greater than __
+For each <channel_title> predict the maximum <views> in all related records with <category_id> equal to __
+For each <channel_title> predict the maximum <likes> in all related records with <category_id> equal to __
+For each <channel_title> predict the maximum <dislikes> in all related records with <category_id> equal to __
+For each <channel_title> predict the maximum <comment_count> in all related records with <category_id> equal to __
+For each <channel_title> predict the maximum <views> in all related records with <category_id> not equal to __
+For each <channel_title> predict the maximum <likes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the maximum <dislikes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the maximum <comment_count> in all related records with <category_id> not equal to __
+For each <channel_title> predict the maximum <views> in all related records with <views> less than __
+For each <channel_title> predict the maximum <likes> in all related records with <views> less than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <views> less than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <views> less than __
+For each <channel_title> predict the maximum <views> in all related records with <likes> less than __
+For each <channel_title> predict the maximum <likes> in all related records with <likes> less than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <likes> less than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <likes> less than __
+For each <channel_title> predict the maximum <views> in all related records with <dislikes> less than __
+For each <channel_title> predict the maximum <likes> in all related records with <dislikes> less than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <dislikes> less than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <dislikes> less than __
+For each <channel_title> predict the maximum <views> in all related records with <comment_count> less than __
+For each <channel_title> predict the maximum <likes> in all related records with <comment_count> less than __
+For each <channel_title> predict the maximum <dislikes> in all related records with <comment_count> less than __
+For each <channel_title> predict the maximum <comment_count> in all related records with <comment_count> less than __
+For each <channel_title> predict the minimum <views> in all related records
+For each <channel_title> predict the minimum <likes> in all related records
+For each <channel_title> predict the minimum <dislikes> in all related records
+For each <channel_title> predict the minimum <comment_count> in all related records
+For each <channel_title> predict the minimum <views> in all related records with <views> greater than __
+For each <channel_title> predict the minimum <likes> in all related records with <views> greater than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <views> greater than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <views> greater than __
+For each <channel_title> predict the minimum <views> in all related records with <likes> greater than __
+For each <channel_title> predict the minimum <likes> in all related records with <likes> greater than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <likes> greater than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <likes> greater than __
+For each <channel_title> predict the minimum <views> in all related records with <dislikes> greater than __
+For each <channel_title> predict the minimum <likes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <dislikes> greater than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <dislikes> greater than __
+For each <channel_title> predict the minimum <views> in all related records with <comment_count> greater than __
+For each <channel_title> predict the minimum <likes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <comment_count> greater than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <comment_count> greater than __
+For each <channel_title> predict the minimum <views> in all related records with <category_id> equal to __
+For each <channel_title> predict the minimum <likes> in all related records with <category_id> equal to __
+For each <channel_title> predict the minimum <dislikes> in all related records with <category_id> equal to __
+For each <channel_title> predict the minimum <comment_count> in all related records with <category_id> equal to __
+For each <channel_title> predict the minimum <views> in all related records with <category_id> not equal to __
+For each <channel_title> predict the minimum <likes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the minimum <dislikes> in all related records with <category_id> not equal to __
+For each <channel_title> predict the minimum <comment_count> in all related records with <category_id> not equal to __
+For each <channel_title> predict the minimum <views> in all related records with <views> less than __
+For each <channel_title> predict the minimum <likes> in all related records with <views> less than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <views> less than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <views> less than __
+For each <channel_title> predict the minimum <views> in all related records with <likes> less than __
+For each <channel_title> predict the minimum <likes> in all related records with <likes> less than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <likes> less than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <likes> less than __
+For each <channel_title> predict the minimum <views> in all related records with <dislikes> less than __
+For each <channel_title> predict the minimum <likes> in all related records with <dislikes> less than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <dislikes> less than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <dislikes> less than __
+For each <channel_title> predict the minimum <views> in all related records with <comment_count> less than __
+For each <channel_title> predict the minimum <likes> in all related records with <comment_count> less than __
+For each <channel_title> predict the minimum <dislikes> in all related records with <comment_count> less than __
+For each <channel_title> predict the minimum <comment_count> in all related records with <comment_count> less than __
+For each <channel_title> predict the majority <category_id> in all related records
+For each <channel_title> predict the majority <category_id> in all related records with <views> greater than __
+For each <channel_title> predict the majority <category_id> in all related records with <likes> greater than __
+For each <channel_title> predict the majority <category_id> in all related records with <dislikes> greater than __
+For each <channel_title> predict the majority <category_id> in all related records with <comment_count> greater than __
+For each <channel_title> predict the majority <category_id> in all related records with <category_id> equal to __
+For each <channel_title> predict the majority <category_id> in all related records with <category_id> not equal to __
+For each <channel_title> predict the majority <category_id> in all related records with <views> less than __
+For each <channel_title> predict the majority <category_id> in all related records with <likes> less than __
+For each <channel_title> predict the majority <category_id> in all related records with <dislikes> less than __
+For each <channel_title> predict the majority <category_id> in all related records with <comment_count> less than __
+Predict the number of records
+Predict the number of records with <views> greater than __
+Predict the number of records with <likes> greater than __
+Predict the number of records with <dislikes> greater than __
+Predict the number of records with <comment_count> greater than __
+Predict the number of records with <channel_title> equal to __
+Predict the number of records with <category_id> equal to __
+Predict the number of records with <channel_title> not equal to __
+Predict the number of records with <category_id> not equal to __
+Predict the number of records with <views> less than __
+Predict the number of records with <likes> less than __
+Predict the number of records with <dislikes> less than __
+Predict the number of records with <comment_count> less than __
+Predict the total <views> in all related records
+Predict the total <likes> in all related records
+Predict the total <dislikes> in all related records
+Predict the total <comment_count> in all related records
+Predict the total <views> in all related records with <views> greater than __
+Predict the total <likes> in all related records with <views> greater than __
+Predict the total <dislikes> in all related records with <views> greater than __
+Predict the total <comment_count> in all related records with <views> greater than __
+Predict the total <views> in all related records with <likes> greater than __
+Predict the total <likes> in all related records with <likes> greater than __
+Predict the total <dislikes> in all related records with <likes> greater than __
+Predict the total <comment_count> in all related records with <likes> greater than __
+Predict the total <views> in all related records with <dislikes> greater than __
+Predict the total <likes> in all related records with <dislikes> greater than __
+Predict the total <dislikes> in all related records with <dislikes> greater than __
+Predict the total <comment_count> in all related records with <dislikes> greater than __
+Predict the total <views> in all related records with <comment_count> greater than __
+Predict the total <likes> in all related records with <comment_count> greater than __
+Predict the total <dislikes> in all related records with <comment_count> greater than __
+Predict the total <comment_count> in all related records with <comment_count> greater than __
+Predict the total <views> in all related records with <channel_title> equal to __
+Predict the total <likes> in all related records with <channel_title> equal to __
+Predict the total <dislikes> in all related records with <channel_title> equal to __
+Predict the total <comment_count> in all related records with <channel_title> equal to __
+Predict the total <views> in all related records with <category_id> equal to __
+Predict the total <likes> in all related records with <category_id> equal to __
+Predict the total <dislikes> in all related records with <category_id> equal to __
+Predict the total <comment_count> in all related records with <category_id> equal to __
+Predict the total <views> in all related records with <channel_title> not equal to __
+Predict the total <likes> in all related records with <channel_title> not equal to __
+Predict the total <dislikes> in all related records with <channel_title> not equal to __
+Predict the total <comment_count> in all related records with <channel_title> not equal to __
+Predict the total <views> in all related records with <category_id> not equal to __
+Predict the total <likes> in all related records with <category_id> not equal to __
+Predict the total <dislikes> in all related records with <category_id> not equal to __
+Predict the total <comment_count> in all related records with <category_id> not equal to __
+Predict the total <views> in all related records with <views> less than __
+Predict the total <likes> in all related records with <views> less than __
+Predict the total <dislikes> in all related records with <views> less than __
+Predict the total <comment_count> in all related records with <views> less than __
+Predict the total <views> in all related records with <likes> less than __
+Predict the total <likes> in all related records with <likes> less than __
+Predict the total <dislikes> in all related records with <likes> less than __
+Predict the total <comment_count> in all related records with <likes> less than __
+Predict the total <views> in all related records with <dislikes> less than __
+Predict the total <likes> in all related records with <dislikes> less than __
+Predict the total <dislikes> in all related records with <dislikes> less than __
+Predict the total <comment_count> in all related records with <dislikes> less than __
+Predict the total <views> in all related records with <comment_count> less than __
+Predict the total <likes> in all related records with <comment_count> less than __
+Predict the total <dislikes> in all related records with <comment_count> less than __
+Predict the total <comment_count> in all related records with <comment_count> less than __
+Predict the average <views> in all related records
+Predict the average <likes> in all related records
+Predict the average <dislikes> in all related records
+Predict the average <comment_count> in all related records
+Predict the average <views> in all related records with <views> greater than __
+Predict the average <likes> in all related records with <views> greater than __
+Predict the average <dislikes> in all related records with <views> greater than __
+Predict the average <comment_count> in all related records with <views> greater than __
+Predict the average <views> in all related records with <likes> greater than __
+Predict the average <likes> in all related records with <likes> greater than __
+Predict the average <dislikes> in all related records with <likes> greater than __
+Predict the average <comment_count> in all related records with <likes> greater than __
+Predict the average <views> in all related records with <dislikes> greater than __
+Predict the average <likes> in all related records with <dislikes> greater than __
+Predict the average <dislikes> in all related records with <dislikes> greater than __
+Predict the average <comment_count> in all related records with <dislikes> greater than __
+Predict the average <views> in all related records with <comment_count> greater than __
+Predict the average <likes> in all related records with <comment_count> greater than __
+Predict the average <dislikes> in all related records with <comment_count> greater than __
+Predict the average <comment_count> in all related records with <comment_count> greater than __
+Predict the average <views> in all related records with <channel_title> equal to __
+Predict the average <likes> in all related records with <channel_title> equal to __
+Predict the average <dislikes> in all related records with <channel_title> equal to __
+Predict the average <comment_count> in all related records with <channel_title> equal to __
+Predict the average <views> in all related records with <category_id> equal to __
+Predict the average <likes> in all related records with <category_id> equal to __
+Predict the average <dislikes> in all related records with <category_id> equal to __
+Predict the average <comment_count> in all related records with <category_id> equal to __
+Predict the average <views> in all related records with <channel_title> not equal to __
+Predict the average <likes> in all related records with <channel_title> not equal to __
+Predict the average <dislikes> in all related records with <channel_title> not equal to __
+Predict the average <comment_count> in all related records with <channel_title> not equal to __
+Predict the average <views> in all related records with <category_id> not equal to __
+Predict the average <likes> in all related records with <category_id> not equal to __
+Predict the average <dislikes> in all related records with <category_id> not equal to __
+Predict the average <comment_count> in all related records with <category_id> not equal to __
+Predict the average <views> in all related records with <views> less than __
+Predict the average <likes> in all related records with <views> less than __
+Predict the average <dislikes> in all related records with <views> less than __
+Predict the average <comment_count> in all related records with <views> less than __
+Predict the average <views> in all related records with <likes> less than __
+Predict the average <likes> in all related records with <likes> less than __
+Predict the average <dislikes> in all related records with <likes> less than __
+Predict the average <comment_count> in all related records with <likes> less than __
+Predict the average <views> in all related records with <dislikes> less than __
+Predict the average <likes> in all related records with <dislikes> less than __
+Predict the average <dislikes> in all related records with <dislikes> less than __
+Predict the average <comment_count> in all related records with <dislikes> less than __
+Predict the average <views> in all related records with <comment_count> less than __
+Predict the average <likes> in all related records with <comment_count> less than __
+Predict the average <dislikes> in all related records with <comment_count> less than __
+Predict the average <comment_count> in all related records with <comment_count> less than __
+Predict the maximum <views> in all related records
+Predict the maximum <likes> in all related records
+Predict the maximum <dislikes> in all related records
+Predict the maximum <comment_count> in all related records
+Predict the maximum <views> in all related records with <views> greater than __
+Predict the maximum <likes> in all related records with <views> greater than __
+Predict the maximum <dislikes> in all related records with <views> greater than __
+Predict the maximum <comment_count> in all related records with <views> greater than __
+Predict the maximum <views> in all related records with <likes> greater than __
+Predict the maximum <likes> in all related records with <likes> greater than __
+Predict the maximum <dislikes> in all related records with <likes> greater than __
+Predict the maximum <comment_count> in all related records with <likes> greater than __
+Predict the maximum <views> in all related records with <dislikes> greater than __
+Predict the maximum <likes> in all related records with <dislikes> greater than __
+Predict the maximum <dislikes> in all related records with <dislikes> greater than __
+Predict the maximum <comment_count> in all related records with <dislikes> greater than __
+Predict the maximum <views> in all related records with <comment_count> greater than __
+Predict the maximum <likes> in all related records with <comment_count> greater than __
+Predict the maximum <dislikes> in all related records with <comment_count> greater than __
+Predict the maximum <comment_count> in all related records with <comment_count> greater than __
+Predict the maximum <views> in all related records with <channel_title> equal to __
+Predict the maximum <likes> in all related records with <channel_title> equal to __
+Predict the maximum <dislikes> in all related records with <channel_title> equal to __
+Predict the maximum <comment_count> in all related records with <channel_title> equal to __
+Predict the maximum <views> in all related records with <category_id> equal to __
+Predict the maximum <likes> in all related records with <category_id> equal to __
+Predict the maximum <dislikes> in all related records with <category_id> equal to __
+Predict the maximum <comment_count> in all related records with <category_id> equal to __
+Predict the maximum <views> in all related records with <channel_title> not equal to __
+Predict the maximum <likes> in all related records with <channel_title> not equal to __
+Predict the maximum <dislikes> in all related records with <channel_title> not equal to __
+Predict the maximum <comment_count> in all related records with <channel_title> not equal to __
+Predict the maximum <views> in all related records with <category_id> not equal to __
+Predict the maximum <likes> in all related records with <category_id> not equal to __
+Predict the maximum <dislikes> in all related records with <category_id> not equal to __
+Predict the maximum <comment_count> in all related records with <category_id> not equal to __
+Predict the maximum <views> in all related records with <views> less than __
+Predict the maximum <likes> in all related records with <views> less than __
+Predict the maximum <dislikes> in all related records with <views> less than __
+Predict the maximum <comment_count> in all related records with <views> less than __
+Predict the maximum <views> in all related records with <likes> less than __
+Predict the maximum <likes> in all related records with <likes> less than __
+Predict the maximum <dislikes> in all related records with <likes> less than __
+Predict the maximum <comment_count> in all related records with <likes> less than __
+Predict the maximum <views> in all related records with <dislikes> less than __
+Predict the maximum <likes> in all related records with <dislikes> less than __
+Predict the maximum <dislikes> in all related records with <dislikes> less than __
+Predict the maximum <comment_count> in all related records with <dislikes> less than __
+Predict the maximum <views> in all related records with <comment_count> less than __
+Predict the maximum <likes> in all related records with <comment_count> less than __
+Predict the maximum <dislikes> in all related records with <comment_count> less than __
+Predict the maximum <comment_count> in all related records with <comment_count> less than __
+Predict the minimum <views> in all related records
+Predict the minimum <likes> in all related records
+Predict the minimum <dislikes> in all related records
+Predict the minimum <comment_count> in all related records
+Predict the minimum <views> in all related records with <views> greater than __
+Predict the minimum <likes> in all related records with <views> greater than __
+Predict the minimum <dislikes> in all related records with <views> greater than __
+Predict the minimum <comment_count> in all related records with <views> greater than __
+Predict the minimum <views> in all related records with <likes> greater than __
+Predict the minimum <likes> in all related records with <likes> greater than __
+Predict the minimum <dislikes> in all related records with <likes> greater than __
+Predict the minimum <comment_count> in all related records with <likes> greater than __
+Predict the minimum <views> in all related records with <dislikes> greater than __
+Predict the minimum <likes> in all related records with <dislikes> greater than __
+Predict the minimum <dislikes> in all related records with <dislikes> greater than __
+Predict the minimum <comment_count> in all related records with <dislikes> greater than __
+Predict the minimum <views> in all related records with <comment_count> greater than __
+Predict the minimum <likes> in all related records with <comment_count> greater than __
+Predict the minimum <dislikes> in all related records with <comment_count> greater than __
+Predict the minimum <comment_count> in all related records with <comment_count> greater than __
+Predict the minimum <views> in all related records with <channel_title> equal to __
+Predict the minimum <likes> in all related records with <channel_title> equal to __
+Predict the minimum <dislikes> in all related records with <channel_title> equal to __
+Predict the minimum <comment_count> in all related records with <channel_title> equal to __
+Predict the minimum <views> in all related records with <category_id> equal to __
+Predict the minimum <likes> in all related records with <category_id> equal to __
+Predict the minimum <dislikes> in all related records with <category_id> equal to __
+Predict the minimum <comment_count> in all related records with <category_id> equal to __
+Predict the minimum <views> in all related records with <channel_title> not equal to __
+Predict the minimum <likes> in all related records with <channel_title> not equal to __
+Predict the minimum <dislikes> in all related records with <channel_title> not equal to __
+Predict the minimum <comment_count> in all related records with <channel_title> not equal to __
+Predict the minimum <views> in all related records with <category_id> not equal to __
+Predict the minimum <likes> in all related records with <category_id> not equal to __
+Predict the minimum <dislikes> in all related records with <category_id> not equal to __
+Predict the minimum <comment_count> in all related records with <category_id> not equal to __
+Predict the minimum <views> in all related records with <views> less than __
+Predict the minimum <likes> in all related records with <views> less than __
+Predict the minimum <dislikes> in all related records with <views> less than __
+Predict the minimum <comment_count> in all related records with <views> less than __
+Predict the minimum <views> in all related records with <likes> less than __
+Predict the minimum <likes> in all related records with <likes> less than __
+Predict the minimum <dislikes> in all related records with <likes> less than __
+Predict the minimum <comment_count> in all related records with <likes> less than __
+Predict the minimum <views> in all related records with <dislikes> less than __
+Predict the minimum <likes> in all related records with <dislikes> less than __
+Predict the minimum <dislikes> in all related records with <dislikes> less than __
+Predict the minimum <comment_count> in all related records with <dislikes> less than __
+Predict the minimum <views> in all related records with <comment_count> less than __
+Predict the minimum <likes> in all related records with <comment_count> less than __
+Predict the minimum <dislikes> in all related records with <comment_count> less than __
+Predict the minimum <comment_count> in all related records with <comment_count> less than __
+Predict the majority <channel_title> in all related records
+Predict the majority <category_id> in all related records
+Predict the majority <channel_title> in all related records with <views> greater than __
+Predict the majority <category_id> in all related records with <views> greater than __
+Predict the majority <channel_title> in all related records with <likes> greater than __
+Predict the majority <category_id> in all related records with <likes> greater than __
+Predict the majority <channel_title> in all related records with <dislikes> greater than __
+Predict the majority <category_id> in all related records with <dislikes> greater than __
+Predict the majority <channel_title> in all related records with <comment_count> greater than __
+Predict the majority <category_id> in all related records with <comment_count> greater than __
+Predict the majority <channel_title> in all related records with <channel_title> equal to __
+Predict the majority <category_id> in all related records with <channel_title> equal to __
+Predict the majority <channel_title> in all related records with <category_id> equal to __
+Predict the majority <category_id> in all related records with <category_id> equal to __
+Predict the majority <channel_title> in all related records with <channel_title> not equal to __
+Predict the majority <category_id> in all related records with <channel_title> not equal to __
+Predict the majority <channel_title> in all related records with <category_id> not equal to __
+Predict the majority <category_id> in all related records with <category_id> not equal to __
+Predict the majority <channel_title> in all related records with <views> less than __
+Predict the majority <category_id> in all related records with <views> less than __
+Predict the majority <channel_title> in all related records with <likes> less than __
+Predict the majority <category_id> in all related records with <likes> less than __
+Predict the majority <channel_title> in all related records with <dislikes> less than __
+Predict the majority <category_id> in all related records with <dislikes> less than __
+Predict the majority <channel_title> in all related records with <comment_count> less than __
+Predict the majority <category_id> in all related records with <comment_count> less than __

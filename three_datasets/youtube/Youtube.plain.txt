@@ -1,0 +1,643 @@
+For each <category of video> predict the number of records
+For each <category of video> predict the number of records with <number of video views> greater than __
+For each <category of video> predict the number of records with <number of video likes> greater than __
+For each <category of video> predict the number of records with <number of video dislikes> greater than __
+For each <category of video> predict the number of records with <number of comments> greater than __
+For each <category of video> predict the number of records with <title of channel> equal to __
+For each <category of video> predict the number of records with <title of channel> not equal to __
+For each <category of video> predict the number of records with <number of video views> less than __
+For each <category of video> predict the number of records with <number of video likes> less than __
+For each <category of video> predict the number of records with <number of video dislikes> less than __
+For each <category of video> predict the number of records with <number of comments> less than __
+For each <category of video> predict the total <number of video views> in all related records
+For each <category of video> predict the total <number of video likes> in all related records
+For each <category of video> predict the total <number of video dislikes> in all related records
+For each <category of video> predict the total <number of comments> in all related records
+For each <category of video> predict the total <number of video views> in all related records with <number of video views> greater than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video views> greater than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video views> greater than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video views> greater than __
+For each <category of video> predict the total <number of video views> in all related records with <number of video likes> greater than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video likes> greater than __
+For each <category of video> predict the total <number of video views> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the total <number of video views> in all related records with <number of comments> greater than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of comments> greater than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of comments> greater than __
+For each <category of video> predict the total <number of comments> in all related records with <number of comments> greater than __
+For each <category of video> predict the total <number of video views> in all related records with <title of channel> equal to __
+For each <category of video> predict the total <number of video likes> in all related records with <title of channel> equal to __
+For each <category of video> predict the total <number of video dislikes> in all related records with <title of channel> equal to __
+For each <category of video> predict the total <number of comments> in all related records with <title of channel> equal to __
+For each <category of video> predict the total <number of video views> in all related records with <title of channel> not equal to __
+For each <category of video> predict the total <number of video likes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the total <number of video dislikes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the total <number of comments> in all related records with <title of channel> not equal to __
+For each <category of video> predict the total <number of video views> in all related records with <number of video views> less than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video views> less than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video views> less than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video views> less than __
+For each <category of video> predict the total <number of video views> in all related records with <number of video likes> less than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video likes> less than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video likes> less than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video likes> less than __
+For each <category of video> predict the total <number of video views> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the total <number of comments> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the total <number of video views> in all related records with <number of comments> less than __
+For each <category of video> predict the total <number of video likes> in all related records with <number of comments> less than __
+For each <category of video> predict the total <number of video dislikes> in all related records with <number of comments> less than __
+For each <category of video> predict the total <number of comments> in all related records with <number of comments> less than __
+For each <category of video> predict the average <number of video views> in all related records
+For each <category of video> predict the average <number of video likes> in all related records
+For each <category of video> predict the average <number of video dislikes> in all related records
+For each <category of video> predict the average <number of comments> in all related records
+For each <category of video> predict the average <number of video views> in all related records with <number of video views> greater than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video views> greater than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video views> greater than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video views> greater than __
+For each <category of video> predict the average <number of video views> in all related records with <number of video likes> greater than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video likes> greater than __
+For each <category of video> predict the average <number of video views> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the average <number of video views> in all related records with <number of comments> greater than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of comments> greater than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of comments> greater than __
+For each <category of video> predict the average <number of comments> in all related records with <number of comments> greater than __
+For each <category of video> predict the average <number of video views> in all related records with <title of channel> equal to __
+For each <category of video> predict the average <number of video likes> in all related records with <title of channel> equal to __
+For each <category of video> predict the average <number of video dislikes> in all related records with <title of channel> equal to __
+For each <category of video> predict the average <number of comments> in all related records with <title of channel> equal to __
+For each <category of video> predict the average <number of video views> in all related records with <title of channel> not equal to __
+For each <category of video> predict the average <number of video likes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the average <number of video dislikes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the average <number of comments> in all related records with <title of channel> not equal to __
+For each <category of video> predict the average <number of video views> in all related records with <number of video views> less than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video views> less than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video views> less than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video views> less than __
+For each <category of video> predict the average <number of video views> in all related records with <number of video likes> less than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video likes> less than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video likes> less than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video likes> less than __
+For each <category of video> predict the average <number of video views> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the average <number of comments> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the average <number of video views> in all related records with <number of comments> less than __
+For each <category of video> predict the average <number of video likes> in all related records with <number of comments> less than __
+For each <category of video> predict the average <number of video dislikes> in all related records with <number of comments> less than __
+For each <category of video> predict the average <number of comments> in all related records with <number of comments> less than __
+For each <category of video> predict the maximum <number of video views> in all related records
+For each <category of video> predict the maximum <number of video likes> in all related records
+For each <category of video> predict the maximum <number of video dislikes> in all related records
+For each <category of video> predict the maximum <number of comments> in all related records
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video views> greater than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video views> greater than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video views> greater than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video views> greater than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video likes> greater than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video likes> greater than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of comments> greater than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of comments> greater than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of comments> greater than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of comments> greater than __
+For each <category of video> predict the maximum <number of video views> in all related records with <title of channel> equal to __
+For each <category of video> predict the maximum <number of video likes> in all related records with <title of channel> equal to __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <title of channel> equal to __
+For each <category of video> predict the maximum <number of comments> in all related records with <title of channel> equal to __
+For each <category of video> predict the maximum <number of video views> in all related records with <title of channel> not equal to __
+For each <category of video> predict the maximum <number of video likes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the maximum <number of comments> in all related records with <title of channel> not equal to __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video views> less than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video views> less than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video views> less than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video views> less than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video likes> less than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video likes> less than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video likes> less than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video likes> less than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the maximum <number of video views> in all related records with <number of comments> less than __
+For each <category of video> predict the maximum <number of video likes> in all related records with <number of comments> less than __
+For each <category of video> predict the maximum <number of video dislikes> in all related records with <number of comments> less than __
+For each <category of video> predict the maximum <number of comments> in all related records with <number of comments> less than __
+For each <category of video> predict the minimum <number of video views> in all related records
+For each <category of video> predict the minimum <number of video likes> in all related records
+For each <category of video> predict the minimum <number of video dislikes> in all related records
+For each <category of video> predict the minimum <number of comments> in all related records
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video views> greater than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video views> greater than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video views> greater than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video views> greater than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video likes> greater than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video likes> greater than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of comments> greater than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of comments> greater than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of comments> greater than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of comments> greater than __
+For each <category of video> predict the minimum <number of video views> in all related records with <title of channel> equal to __
+For each <category of video> predict the minimum <number of video likes> in all related records with <title of channel> equal to __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <title of channel> equal to __
+For each <category of video> predict the minimum <number of comments> in all related records with <title of channel> equal to __
+For each <category of video> predict the minimum <number of video views> in all related records with <title of channel> not equal to __
+For each <category of video> predict the minimum <number of video likes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <title of channel> not equal to __
+For each <category of video> predict the minimum <number of comments> in all related records with <title of channel> not equal to __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video views> less than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video views> less than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video views> less than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video views> less than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video likes> less than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video likes> less than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video likes> less than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video likes> less than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the minimum <number of video views> in all related records with <number of comments> less than __
+For each <category of video> predict the minimum <number of video likes> in all related records with <number of comments> less than __
+For each <category of video> predict the minimum <number of video dislikes> in all related records with <number of comments> less than __
+For each <category of video> predict the minimum <number of comments> in all related records with <number of comments> less than __
+For each <category of video> predict the majority <title of channel> in all related records
+For each <category of video> predict the majority <title of channel> in all related records with <number of video views> greater than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of video likes> greater than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of video dislikes> greater than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of comments> greater than __
+For each <category of video> predict the majority <title of channel> in all related records with <title of channel> equal to __
+For each <category of video> predict the majority <title of channel> in all related records with <title of channel> not equal to __
+For each <category of video> predict the majority <title of channel> in all related records with <number of video views> less than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of video likes> less than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of video dislikes> less than __
+For each <category of video> predict the majority <title of channel> in all related records with <number of comments> less than __
+For each <title of channel> predict the number of records
+For each <title of channel> predict the number of records with <number of video views> greater than __
+For each <title of channel> predict the number of records with <number of video likes> greater than __
+For each <title of channel> predict the number of records with <number of video dislikes> greater than __
+For each <title of channel> predict the number of records with <number of comments> greater than __
+For each <title of channel> predict the number of records with <category of video> equal to __
+For each <title of channel> predict the number of records with <category of video> not equal to __
+For each <title of channel> predict the number of records with <number of video views> less than __
+For each <title of channel> predict the number of records with <number of video likes> less than __
+For each <title of channel> predict the number of records with <number of video dislikes> less than __
+For each <title of channel> predict the number of records with <number of comments> less than __
+For each <title of channel> predict the total <number of video views> in all related records
+For each <title of channel> predict the total <number of video likes> in all related records
+For each <title of channel> predict the total <number of video dislikes> in all related records
+For each <title of channel> predict the total <number of comments> in all related records
+For each <title of channel> predict the total <number of video views> in all related records with <number of video views> greater than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video views> greater than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of comments> greater than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of comments> greater than __
+For each <title of channel> predict the total <number of video views> in all related records with <category of video> equal to __
+For each <title of channel> predict the total <number of video likes> in all related records with <category of video> equal to __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <category of video> equal to __
+For each <title of channel> predict the total <number of comments> in all related records with <category of video> equal to __
+For each <title of channel> predict the total <number of video views> in all related records with <category of video> not equal to __
+For each <title of channel> predict the total <number of video likes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the total <number of comments> in all related records with <category of video> not equal to __
+For each <title of channel> predict the total <number of video views> in all related records with <number of video views> less than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video views> less than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video views> less than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video views> less than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of video likes> less than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video likes> less than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the total <number of video views> in all related records with <number of comments> less than __
+For each <title of channel> predict the total <number of video likes> in all related records with <number of comments> less than __
+For each <title of channel> predict the total <number of video dislikes> in all related records with <number of comments> less than __
+For each <title of channel> predict the total <number of comments> in all related records with <number of comments> less than __
+For each <title of channel> predict the average <number of video views> in all related records
+For each <title of channel> predict the average <number of video likes> in all related records
+For each <title of channel> predict the average <number of video dislikes> in all related records
+For each <title of channel> predict the average <number of comments> in all related records
+For each <title of channel> predict the average <number of video views> in all related records with <number of video views> greater than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video views> greater than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of comments> greater than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of comments> greater than __
+For each <title of channel> predict the average <number of video views> in all related records with <category of video> equal to __
+For each <title of channel> predict the average <number of video likes> in all related records with <category of video> equal to __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <category of video> equal to __
+For each <title of channel> predict the average <number of comments> in all related records with <category of video> equal to __
+For each <title of channel> predict the average <number of video views> in all related records with <category of video> not equal to __
+For each <title of channel> predict the average <number of video likes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the average <number of comments> in all related records with <category of video> not equal to __
+For each <title of channel> predict the average <number of video views> in all related records with <number of video views> less than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video views> less than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video views> less than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video views> less than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of video likes> less than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video likes> less than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the average <number of video views> in all related records with <number of comments> less than __
+For each <title of channel> predict the average <number of video likes> in all related records with <number of comments> less than __
+For each <title of channel> predict the average <number of video dislikes> in all related records with <number of comments> less than __
+For each <title of channel> predict the average <number of comments> in all related records with <number of comments> less than __
+For each <title of channel> predict the maximum <number of video views> in all related records
+For each <title of channel> predict the maximum <number of video likes> in all related records
+For each <title of channel> predict the maximum <number of video dislikes> in all related records
+For each <title of channel> predict the maximum <number of comments> in all related records
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video views> greater than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video views> greater than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of comments> greater than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of comments> greater than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <category of video> equal to __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <category of video> equal to __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <category of video> equal to __
+For each <title of channel> predict the maximum <number of comments> in all related records with <category of video> equal to __
+For each <title of channel> predict the maximum <number of video views> in all related records with <category of video> not equal to __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the maximum <number of comments> in all related records with <category of video> not equal to __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video views> less than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video views> less than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video views> less than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video views> less than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video likes> less than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video likes> less than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the maximum <number of video views> in all related records with <number of comments> less than __
+For each <title of channel> predict the maximum <number of video likes> in all related records with <number of comments> less than __
+For each <title of channel> predict the maximum <number of video dislikes> in all related records with <number of comments> less than __
+For each <title of channel> predict the maximum <number of comments> in all related records with <number of comments> less than __
+For each <title of channel> predict the minimum <number of video views> in all related records
+For each <title of channel> predict the minimum <number of video likes> in all related records
+For each <title of channel> predict the minimum <number of video dislikes> in all related records
+For each <title of channel> predict the minimum <number of comments> in all related records
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video views> greater than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video views> greater than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video views> greater than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of comments> greater than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of comments> greater than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of comments> greater than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <category of video> equal to __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <category of video> equal to __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <category of video> equal to __
+For each <title of channel> predict the minimum <number of comments> in all related records with <category of video> equal to __
+For each <title of channel> predict the minimum <number of video views> in all related records with <category of video> not equal to __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <category of video> not equal to __
+For each <title of channel> predict the minimum <number of comments> in all related records with <category of video> not equal to __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video views> less than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video views> less than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video views> less than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video views> less than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video likes> less than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video likes> less than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video likes> less than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the minimum <number of video views> in all related records with <number of comments> less than __
+For each <title of channel> predict the minimum <number of video likes> in all related records with <number of comments> less than __
+For each <title of channel> predict the minimum <number of video dislikes> in all related records with <number of comments> less than __
+For each <title of channel> predict the minimum <number of comments> in all related records with <number of comments> less than __
+For each <title of channel> predict the majority <category of video> in all related records
+For each <title of channel> predict the majority <category of video> in all related records with <number of video views> greater than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of video likes> greater than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of video dislikes> greater than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of comments> greater than __
+For each <title of channel> predict the majority <category of video> in all related records with <category of video> equal to __
+For each <title of channel> predict the majority <category of video> in all related records with <category of video> not equal to __
+For each <title of channel> predict the majority <category of video> in all related records with <number of video views> less than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of video likes> less than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of video dislikes> less than __
+For each <title of channel> predict the majority <category of video> in all related records with <number of comments> less than __
+Predict the number of records
+Predict the number of records with <number of video views> greater than __
+Predict the number of records with <number of video likes> greater than __
+Predict the number of records with <number of video dislikes> greater than __
+Predict the number of records with <number of comments> greater than __
+Predict the number of records with <title of channel> equal to __
+Predict the number of records with <category of video> equal to __
+Predict the number of records with <title of channel> not equal to __
+Predict the number of records with <category of video> not equal to __
+Predict the number of records with <number of video views> less than __
+Predict the number of records with <number of video likes> less than __
+Predict the number of records with <number of video dislikes> less than __
+Predict the number of records with <number of comments> less than __
+Predict the total <number of video views> in all related records
+Predict the total <number of video likes> in all related records
+Predict the total <number of video dislikes> in all related records
+Predict the total <number of comments> in all related records
+Predict the total <number of video views> in all related records with <number of video views> greater than __
+Predict the total <number of video likes> in all related records with <number of video views> greater than __
+Predict the total <number of video dislikes> in all related records with <number of video views> greater than __
+Predict the total <number of comments> in all related records with <number of video views> greater than __
+Predict the total <number of video views> in all related records with <number of video likes> greater than __
+Predict the total <number of video likes> in all related records with <number of video likes> greater than __
+Predict the total <number of video dislikes> in all related records with <number of video likes> greater than __
+Predict the total <number of comments> in all related records with <number of video likes> greater than __
+Predict the total <number of video views> in all related records with <number of video dislikes> greater than __
+Predict the total <number of video likes> in all related records with <number of video dislikes> greater than __
+Predict the total <number of video dislikes> in all related records with <number of video dislikes> greater than __
+Predict the total <number of comments> in all related records with <number of video dislikes> greater than __
+Predict the total <number of video views> in all related records with <number of comments> greater than __
+Predict the total <number of video likes> in all related records with <number of comments> greater than __
+Predict the total <number of video dislikes> in all related records with <number of comments> greater than __
+Predict the total <number of comments> in all related records with <number of comments> greater than __
+Predict the total <number of video views> in all related records with <title of channel> equal to __
+Predict the total <number of video likes> in all related records with <title of channel> equal to __
+Predict the total <number of video dislikes> in all related records with <title of channel> equal to __
+Predict the total <number of comments> in all related records with <title of channel> equal to __
+Predict the total <number of video views> in all related records with <category of video> equal to __
+Predict the total <number of video likes> in all related records with <category of video> equal to __
+Predict the total <number of video dislikes> in all related records with <category of video> equal to __
+Predict the total <number of comments> in all related records with <category of video> equal to __
+Predict the total <number of video views> in all related records with <title of channel> not equal to __
+Predict the total <number of video likes> in all related records with <title of channel> not equal to __
+Predict the total <number of video dislikes> in all related records with <title of channel> not equal to __
+Predict the total <number of comments> in all related records with <title of channel> not equal to __
+Predict the total <number of video views> in all related records with <category of video> not equal to __
+Predict the total <number of video likes> in all related records with <category of video> not equal to __
+Predict the total <number of video dislikes> in all related records with <category of video> not equal to __
+Predict the total <number of comments> in all related records with <category of video> not equal to __
+Predict the total <number of video views> in all related records with <number of video views> less than __
+Predict the total <number of video likes> in all related records with <number of video views> less than __
+Predict the total <number of video dislikes> in all related records with <number of video views> less than __
+Predict the total <number of comments> in all related records with <number of video views> less than __
+Predict the total <number of video views> in all related records with <number of video likes> less than __
+Predict the total <number of video likes> in all related records with <number of video likes> less than __
+Predict the total <number of video dislikes> in all related records with <number of video likes> less than __
+Predict the total <number of comments> in all related records with <number of video likes> less than __
+Predict the total <number of video views> in all related records with <number of video dislikes> less than __
+Predict the total <number of video likes> in all related records with <number of video dislikes> less than __
+Predict the total <number of video dislikes> in all related records with <number of video dislikes> less than __
+Predict the total <number of comments> in all related records with <number of video dislikes> less than __
+Predict the total <number of video views> in all related records with <number of comments> less than __
+Predict the total <number of video likes> in all related records with <number of comments> less than __
+Predict the total <number of video dislikes> in all related records with <number of comments> less than __
+Predict the total <number of comments> in all related records with <number of comments> less than __
+Predict the average <number of video views> in all related records
+Predict the average <number of video likes> in all related records
+Predict the average <number of video dislikes> in all related records
+Predict the average <number of comments> in all related records
+Predict the average <number of video views> in all related records with <number of video views> greater than __
+Predict the average <number of video likes> in all related records with <number of video views> greater than __
+Predict the average <number of video dislikes> in all related records with <number of video views> greater than __
+Predict the average <number of comments> in all related records with <number of video views> greater than __
+Predict the average <number of video views> in all related records with <number of video likes> greater than __
+Predict the average <number of video likes> in all related records with <number of video likes> greater than __
+Predict the average <number of video dislikes> in all related records with <number of video likes> greater than __
+Predict the average <number of comments> in all related records with <number of video likes> greater than __
+Predict the average <number of video views> in all related records with <number of video dislikes> greater than __
+Predict the average <number of video likes> in all related records with <number of video dislikes> greater than __
+Predict the average <number of video dislikes> in all related records with <number of video dislikes> greater than __
+Predict the average <number of comments> in all related records with <number of video dislikes> greater than __
+Predict the average <number of video views> in all related records with <number of comments> greater than __
+Predict the average <number of video likes> in all related records with <number of comments> greater than __
+Predict the average <number of video dislikes> in all related records with <number of comments> greater than __
+Predict the average <number of comments> in all related records with <number of comments> greater than __
+Predict the average <number of video views> in all related records with <title of channel> equal to __
+Predict the average <number of video likes> in all related records with <title of channel> equal to __
+Predict the average <number of video dislikes> in all related records with <title of channel> equal to __
+Predict the average <number of comments> in all related records with <title of channel> equal to __
+Predict the average <number of video views> in all related records with <category of video> equal to __
+Predict the average <number of video likes> in all related records with <category of video> equal to __
+Predict the average <number of video dislikes> in all related records with <category of video> equal to __
+Predict the average <number of comments> in all related records with <category of video> equal to __
+Predict the average <number of video views> in all related records with <title of channel> not equal to __
+Predict the average <number of video likes> in all related records with <title of channel> not equal to __
+Predict the average <number of video dislikes> in all related records with <title of channel> not equal to __
+Predict the average <number of comments> in all related records with <title of channel> not equal to __
+Predict the average <number of video views> in all related records with <category of video> not equal to __
+Predict the average <number of video likes> in all related records with <category of video> not equal to __
+Predict the average <number of video dislikes> in all related records with <category of video> not equal to __
+Predict the average <number of comments> in all related records with <category of video> not equal to __
+Predict the average <number of video views> in all related records with <number of video views> less than __
+Predict the average <number of video likes> in all related records with <number of video views> less than __
+Predict the average <number of video dislikes> in all related records with <number of video views> less than __
+Predict the average <number of comments> in all related records with <number of video views> less than __
+Predict the average <number of video views> in all related records with <number of video likes> less than __
+Predict the average <number of video likes> in all related records with <number of video likes> less than __
+Predict the average <number of video dislikes> in all related records with <number of video likes> less than __
+Predict the average <number of comments> in all related records with <number of video likes> less than __
+Predict the average <number of video views> in all related records with <number of video dislikes> less than __
+Predict the average <number of video likes> in all related records with <number of video dislikes> less than __
+Predict the average <number of video dislikes> in all related records with <number of video dislikes> less than __
+Predict the average <number of comments> in all related records with <number of video dislikes> less than __
+Predict the average <number of video views> in all related records with <number of comments> less than __
+Predict the average <number of video likes> in all related records with <number of comments> less than __
+Predict the average <number of video dislikes> in all related records with <number of comments> less than __
+Predict the average <number of comments> in all related records with <number of comments> less than __
+Predict the maximum <number of video views> in all related records
+Predict the maximum <number of video likes> in all related records
+Predict the maximum <number of video dislikes> in all related records
+Predict the maximum <number of comments> in all related records
+Predict the maximum <number of video views> in all related records with <number of video views> greater than __
+Predict the maximum <number of video likes> in all related records with <number of video views> greater than __
+Predict the maximum <number of video dislikes> in all related records with <number of video views> greater than __
+Predict the maximum <number of comments> in all related records with <number of video views> greater than __
+Predict the maximum <number of video views> in all related records with <number of video likes> greater than __
+Predict the maximum <number of video likes> in all related records with <number of video likes> greater than __
+Predict the maximum <number of video dislikes> in all related records with <number of video likes> greater than __
+Predict the maximum <number of comments> in all related records with <number of video likes> greater than __
+Predict the maximum <number of video views> in all related records with <number of video dislikes> greater than __
+Predict the maximum <number of video likes> in all related records with <number of video dislikes> greater than __
+Predict the maximum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+Predict the maximum <number of comments> in all related records with <number of video dislikes> greater than __
+Predict the maximum <number of video views> in all related records with <number of comments> greater than __
+Predict the maximum <number of video likes> in all related records with <number of comments> greater than __
+Predict the maximum <number of video dislikes> in all related records with <number of comments> greater than __
+Predict the maximum <number of comments> in all related records with <number of comments> greater than __
+Predict the maximum <number of video views> in all related records with <title of channel> equal to __
+Predict the maximum <number of video likes> in all related records with <title of channel> equal to __
+Predict the maximum <number of video dislikes> in all related records with <title of channel> equal to __
+Predict the maximum <number of comments> in all related records with <title of channel> equal to __
+Predict the maximum <number of video views> in all related records with <category of video> equal to __
+Predict the maximum <number of video likes> in all related records with <category of video> equal to __
+Predict the maximum <number of video dislikes> in all related records with <category of video> equal to __
+Predict the maximum <number of comments> in all related records with <category of video> equal to __
+Predict the maximum <number of video views> in all related records with <title of channel> not equal to __
+Predict the maximum <number of video likes> in all related records with <title of channel> not equal to __
+Predict the maximum <number of video dislikes> in all related records with <title of channel> not equal to __
+Predict the maximum <number of comments> in all related records with <title of channel> not equal to __
+Predict the maximum <number of video views> in all related records with <category of video> not equal to __
+Predict the maximum <number of video likes> in all related records with <category of video> not equal to __
+Predict the maximum <number of video dislikes> in all related records with <category of video> not equal to __
+Predict the maximum <number of comments> in all related records with <category of video> not equal to __
+Predict the maximum <number of video views> in all related records with <number of video views> less than __
+Predict the maximum <number of video likes> in all related records with <number of video views> less than __
+Predict the maximum <number of video dislikes> in all related records with <number of video views> less than __
+Predict the maximum <number of comments> in all related records with <number of video views> less than __
+Predict the maximum <number of video views> in all related records with <number of video likes> less than __
+Predict the maximum <number of video likes> in all related records with <number of video likes> less than __
+Predict the maximum <number of video dislikes> in all related records with <number of video likes> less than __
+Predict the maximum <number of comments> in all related records with <number of video likes> less than __
+Predict the maximum <number of video views> in all related records with <number of video dislikes> less than __
+Predict the maximum <number of video likes> in all related records with <number of video dislikes> less than __
+Predict the maximum <number of video dislikes> in all related records with <number of video dislikes> less than __
+Predict the maximum <number of comments> in all related records with <number of video dislikes> less than __
+Predict the maximum <number of video views> in all related records with <number of comments> less than __
+Predict the maximum <number of video likes> in all related records with <number of comments> less than __
+Predict the maximum <number of video dislikes> in all related records with <number of comments> less than __
+Predict the maximum <number of comments> in all related records with <number of comments> less than __
+Predict the minimum <number of video views> in all related records
+Predict the minimum <number of video likes> in all related records
+Predict the minimum <number of video dislikes> in all related records
+Predict the minimum <number of comments> in all related records
+Predict the minimum <number of video views> in all related records with <number of video views> greater than __
+Predict the minimum <number of video likes> in all related records with <number of video views> greater than __
+Predict the minimum <number of video dislikes> in all related records with <number of video views> greater than __
+Predict the minimum <number of comments> in all related records with <number of video views> greater than __
+Predict the minimum <number of video views> in all related records with <number of video likes> greater than __
+Predict the minimum <number of video likes> in all related records with <number of video likes> greater than __
+Predict the minimum <number of video dislikes> in all related records with <number of video likes> greater than __
+Predict the minimum <number of comments> in all related records with <number of video likes> greater than __
+Predict the minimum <number of video views> in all related records with <number of video dislikes> greater than __
+Predict the minimum <number of video likes> in all related records with <number of video dislikes> greater than __
+Predict the minimum <number of video dislikes> in all related records with <number of video dislikes> greater than __
+Predict the minimum <number of comments> in all related records with <number of video dislikes> greater than __
+Predict the minimum <number of video views> in all related records with <number of comments> greater than __
+Predict the minimum <number of video likes> in all related records with <number of comments> greater than __
+Predict the minimum <number of video dislikes> in all related records with <number of comments> greater than __
+Predict the minimum <number of comments> in all related records with <number of comments> greater than __
+Predict the minimum <number of video views> in all related records with <title of channel> equal to __
+Predict the minimum <number of video likes> in all related records with <title of channel> equal to __
+Predict the minimum <number of video dislikes> in all related records with <title of channel> equal to __
+Predict the minimum <number of comments> in all related records with <title of channel> equal to __
+Predict the minimum <number of video views> in all related records with <category of video> equal to __
+Predict the minimum <number of video likes> in all related records with <category of video> equal to __
+Predict the minimum <number of video dislikes> in all related records with <category of video> equal to __
+Predict the minimum <number of comments> in all related records with <category of video> equal to __
+Predict the minimum <number of video views> in all related records with <title of channel> not equal to __
+Predict the minimum <number of video likes> in all related records with <title of channel> not equal to __
+Predict the minimum <number of video dislikes> in all related records with <title of channel> not equal to __
+Predict the minimum <number of comments> in all related records with <title of channel> not equal to __
+Predict the minimum <number of video views> in all related records with <category of video> not equal to __
+Predict the minimum <number of video likes> in all related records with <category of video> not equal to __
+Predict the minimum <number of video dislikes> in all related records with <category of video> not equal to __
+Predict the minimum <number of comments> in all related records with <category of video> not equal to __
+Predict the minimum <number of video views> in all related records with <number of video views> less than __
+Predict the minimum <number of video likes> in all related records with <number of video views> less than __
+Predict the minimum <number of video dislikes> in all related records with <number of video views> less than __
+Predict the minimum <number of comments> in all related records with <number of video views> less than __
+Predict the minimum <number of video views> in all related records with <number of video likes> less than __
+Predict the minimum <number of video likes> in all related records with <number of video likes> less than __
+Predict the minimum <number of video dislikes> in all related records with <number of video likes> less than __
+Predict the minimum <number of comments> in all related records with <number of video likes> less than __
+Predict the minimum <number of video views> in all related records with <number of video dislikes> less than __
+Predict the minimum <number of video likes> in all related records with <number of video dislikes> less than __
+Predict the minimum <number of video dislikes> in all related records with <number of video dislikes> less than __
+Predict the minimum <number of comments> in all related records with <number of video dislikes> less than __
+Predict the minimum <number of video views> in all related records with <number of comments> less than __
+Predict the minimum <number of video likes> in all related records with <number of comments> less than __
+Predict the minimum <number of video dislikes> in all related records with <number of comments> less than __
+Predict the minimum <number of comments> in all related records with <number of comments> less than __
+Predict the majority <title of channel> in all related records
+Predict the majority <category of video> in all related records
+Predict the majority <title of channel> in all related records with <number of video views> greater than __
+Predict the majority <category of video> in all related records with <number of video views> greater than __
+Predict the majority <title of channel> in all related records with <number of video likes> greater than __
+Predict the majority <category of video> in all related records with <number of video likes> greater than __
+Predict the majority <title of channel> in all related records with <number of video dislikes> greater than __
+Predict the majority <category of video> in all related records with <number of video dislikes> greater than __
+Predict the majority <title of channel> in all related records with <number of comments> greater than __
+Predict the majority <category of video> in all related records with <number of comments> greater than __
+Predict the majority <title of channel> in all related records with <title of channel> equal to __
+Predict the majority <category of video> in all related records with <title of channel> equal to __
+Predict the majority <title of channel> in all related records with <category of video> equal to __
+Predict the majority <category of video> in all related records with <category of video> equal to __
+Predict the majority <title of channel> in all related records with <title of channel> not equal to __
+Predict the majority <category of video> in all related records with <title of channel> not equal to __
+Predict the majority <title of channel> in all related records with <category of video> not equal to __
+Predict the majority <category of video> in all related records with <category of video> not equal to __
+Predict the majority <title of channel> in all related records with <number of video views> less than __
+Predict the majority <category of video> in all related records with <number of video views> less than __
+Predict the majority <title of channel> in all related records with <number of video likes> less than __
+Predict the majority <category of video> in all related records with <number of video likes> less than __
+Predict the majority <title of channel> in all related records with <number of video dislikes> less than __
+Predict the majority <category of video> in all related records with <number of video dislikes> less than __
+Predict the majority <title of channel> in all related records with <number of comments> less than __
+Predict the majority <category of video> in all related records with <number of comments> less than __

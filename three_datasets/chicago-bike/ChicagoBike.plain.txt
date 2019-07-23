@@ -1,0 +1,714 @@
+For each <origin station> predict the number of records
+For each <origin station> predict the number of records with <trip duration in minute> greater than __
+For each <origin station> predict the number of records with <temperature> greater than __
+For each <origin station> predict the number of records with <number of docks in origin station> greater than __
+For each <origin station> predict the number of records with <number of docks in destination station> greater than __
+For each <origin station> predict the number of records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the number of records with <usertype> equal to __
+For each <origin station> predict the number of records with <gender> equal to __
+For each <origin station> predict the number of records with <destination station> equal to __
+For each <origin station> predict the number of records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the number of records with <usertype> not equal to __
+For each <origin station> predict the number of records with <gender> not equal to __
+For each <origin station> predict the number of records with <destination station> not equal to __
+For each <origin station> predict the number of records with <trip duration in minute> less than __
+For each <origin station> predict the number of records with <temperature> less than __
+For each <origin station> predict the number of records with <number of docks in origin station> less than __
+For each <origin station> predict the number of records with <number of docks in destination station> less than __
+For each <origin station> predict the total <trip duration in minute> in all related records
+For each <origin station> predict the total <temperature> in all related records
+For each <origin station> predict the total <number of docks in origin station> in all related records
+For each <origin station> predict the total <number of docks in destination station> in all related records
+For each <origin station> predict the total <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the total <temperature> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <temperature> greater than __
+For each <origin station> predict the total <temperature> in all related records with <temperature> greater than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <temperature> greater than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <temperature> greater than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the total <temperature> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the total <temperature> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the total <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <usertype> equal to __
+For each <origin station> predict the total <temperature> in all related records with <usertype> equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <usertype> equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <usertype> equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <gender> equal to __
+For each <origin station> predict the total <temperature> in all related records with <gender> equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <gender> equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <gender> equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <destination station> equal to __
+For each <origin station> predict the total <temperature> in all related records with <destination station> equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <destination station> equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <destination station> equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the total <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <usertype> not equal to __
+For each <origin station> predict the total <temperature> in all related records with <usertype> not equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <gender> not equal to __
+For each <origin station> predict the total <temperature> in all related records with <gender> not equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <gender> not equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <gender> not equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <destination station> not equal to __
+For each <origin station> predict the total <temperature> in all related records with <destination station> not equal to __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <destination station> not equal to __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <destination station> not equal to __
+For each <origin station> predict the total <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the total <temperature> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <temperature> less than __
+For each <origin station> predict the total <temperature> in all related records with <temperature> less than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <temperature> less than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <temperature> less than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the total <temperature> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the total <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the total <temperature> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the total <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the total <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the average <trip duration in minute> in all related records
+For each <origin station> predict the average <temperature> in all related records
+For each <origin station> predict the average <number of docks in origin station> in all related records
+For each <origin station> predict the average <number of docks in destination station> in all related records
+For each <origin station> predict the average <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the average <temperature> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <temperature> greater than __
+For each <origin station> predict the average <temperature> in all related records with <temperature> greater than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <temperature> greater than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <temperature> greater than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the average <temperature> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the average <temperature> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the average <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <usertype> equal to __
+For each <origin station> predict the average <temperature> in all related records with <usertype> equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <usertype> equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <usertype> equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <gender> equal to __
+For each <origin station> predict the average <temperature> in all related records with <gender> equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <gender> equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <gender> equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <destination station> equal to __
+For each <origin station> predict the average <temperature> in all related records with <destination station> equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <destination station> equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <destination station> equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the average <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <usertype> not equal to __
+For each <origin station> predict the average <temperature> in all related records with <usertype> not equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <gender> not equal to __
+For each <origin station> predict the average <temperature> in all related records with <gender> not equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <gender> not equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <gender> not equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <destination station> not equal to __
+For each <origin station> predict the average <temperature> in all related records with <destination station> not equal to __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <destination station> not equal to __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <destination station> not equal to __
+For each <origin station> predict the average <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the average <temperature> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <temperature> less than __
+For each <origin station> predict the average <temperature> in all related records with <temperature> less than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <temperature> less than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <temperature> less than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the average <temperature> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the average <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the average <temperature> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the average <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the average <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records
+For each <origin station> predict the maximum <temperature> in all related records
+For each <origin station> predict the maximum <number of docks in origin station> in all related records
+For each <origin station> predict the maximum <number of docks in destination station> in all related records
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the maximum <temperature> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <temperature> greater than __
+For each <origin station> predict the maximum <temperature> in all related records with <temperature> greater than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <temperature> greater than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <temperature> greater than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the maximum <temperature> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the maximum <temperature> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <usertype> equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <usertype> equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <usertype> equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <usertype> equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <gender> equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <gender> equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <gender> equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <gender> equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <destination station> equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <destination station> equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <destination station> equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <destination station> equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <usertype> not equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <usertype> not equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <gender> not equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <gender> not equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <gender> not equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <gender> not equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <destination station> not equal to __
+For each <origin station> predict the maximum <temperature> in all related records with <destination station> not equal to __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <destination station> not equal to __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <destination station> not equal to __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the maximum <temperature> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <temperature> less than __
+For each <origin station> predict the maximum <temperature> in all related records with <temperature> less than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <temperature> less than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <temperature> less than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the maximum <temperature> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the maximum <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the maximum <temperature> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the maximum <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the maximum <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records
+For each <origin station> predict the minimum <temperature> in all related records
+For each <origin station> predict the minimum <number of docks in origin station> in all related records
+For each <origin station> predict the minimum <number of docks in destination station> in all related records
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the minimum <temperature> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <temperature> greater than __
+For each <origin station> predict the minimum <temperature> in all related records with <temperature> greater than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <temperature> greater than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <temperature> greater than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the minimum <temperature> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the minimum <temperature> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <usertype> equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <usertype> equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <usertype> equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <usertype> equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <gender> equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <gender> equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <gender> equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <gender> equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <destination station> equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <destination station> equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <destination station> equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <destination station> equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <usertype> not equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <usertype> not equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <gender> not equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <gender> not equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <gender> not equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <gender> not equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <destination station> not equal to __
+For each <origin station> predict the minimum <temperature> in all related records with <destination station> not equal to __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <destination station> not equal to __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <destination station> not equal to __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the minimum <temperature> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <temperature> less than __
+For each <origin station> predict the minimum <temperature> in all related records with <temperature> less than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <temperature> less than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <temperature> less than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the minimum <temperature> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the minimum <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the minimum <temperature> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the minimum <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the minimum <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records
+For each <origin station> predict the majority <usertype> in all related records
+For each <origin station> predict the majority <gender> in all related records
+For each <origin station> predict the majority <destination station> in all related records
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the majority <usertype> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the majority <gender> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the majority <destination station> in all related records with <trip duration in minute> greater than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <temperature> greater than __
+For each <origin station> predict the majority <usertype> in all related records with <temperature> greater than __
+For each <origin station> predict the majority <gender> in all related records with <temperature> greater than __
+For each <origin station> predict the majority <destination station> in all related records with <temperature> greater than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the majority <usertype> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the majority <gender> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the majority <destination station> in all related records with <number of docks in origin station> greater than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the majority <usertype> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the majority <gender> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the majority <destination station> in all related records with <number of docks in destination station> greater than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the majority <usertype> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the majority <gender> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the majority <destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <usertype> equal to __
+For each <origin station> predict the majority <usertype> in all related records with <usertype> equal to __
+For each <origin station> predict the majority <gender> in all related records with <usertype> equal to __
+For each <origin station> predict the majority <destination station> in all related records with <usertype> equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <gender> equal to __
+For each <origin station> predict the majority <usertype> in all related records with <gender> equal to __
+For each <origin station> predict the majority <gender> in all related records with <gender> equal to __
+For each <origin station> predict the majority <destination station> in all related records with <gender> equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <destination station> equal to __
+For each <origin station> predict the majority <usertype> in all related records with <destination station> equal to __
+For each <origin station> predict the majority <gender> in all related records with <destination station> equal to __
+For each <origin station> predict the majority <destination station> in all related records with <destination station> equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the majority <usertype> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the majority <gender> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the majority <destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <usertype> not equal to __
+For each <origin station> predict the majority <usertype> in all related records with <usertype> not equal to __
+For each <origin station> predict the majority <gender> in all related records with <usertype> not equal to __
+For each <origin station> predict the majority <destination station> in all related records with <usertype> not equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <gender> not equal to __
+For each <origin station> predict the majority <usertype> in all related records with <gender> not equal to __
+For each <origin station> predict the majority <gender> in all related records with <gender> not equal to __
+For each <origin station> predict the majority <destination station> in all related records with <gender> not equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <destination station> not equal to __
+For each <origin station> predict the majority <usertype> in all related records with <destination station> not equal to __
+For each <origin station> predict the majority <gender> in all related records with <destination station> not equal to __
+For each <origin station> predict the majority <destination station> in all related records with <destination station> not equal to __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the majority <usertype> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the majority <gender> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the majority <destination station> in all related records with <trip duration in minute> less than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <temperature> less than __
+For each <origin station> predict the majority <usertype> in all related records with <temperature> less than __
+For each <origin station> predict the majority <gender> in all related records with <temperature> less than __
+For each <origin station> predict the majority <destination station> in all related records with <temperature> less than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the majority <usertype> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the majority <gender> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the majority <destination station> in all related records with <number of docks in origin station> less than __
+For each <origin station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the majority <usertype> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the majority <gender> in all related records with <number of docks in destination station> less than __
+For each <origin station> predict the majority <destination station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the number of records
+For each <destination station> predict the number of records with <trip duration in minute> greater than __
+For each <destination station> predict the number of records with <temperature> greater than __
+For each <destination station> predict the number of records with <number of docks in origin station> greater than __
+For each <destination station> predict the number of records with <number of docks in destination station> greater than __
+For each <destination station> predict the number of records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the number of records with <usertype> equal to __
+For each <destination station> predict the number of records with <gender> equal to __
+For each <destination station> predict the number of records with <origin station> equal to __
+For each <destination station> predict the number of records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the number of records with <usertype> not equal to __
+For each <destination station> predict the number of records with <gender> not equal to __
+For each <destination station> predict the number of records with <origin station> not equal to __
+For each <destination station> predict the number of records with <trip duration in minute> less than __
+For each <destination station> predict the number of records with <temperature> less than __
+For each <destination station> predict the number of records with <number of docks in origin station> less than __
+For each <destination station> predict the number of records with <number of docks in destination station> less than __
+For each <destination station> predict the total <trip duration in minute> in all related records
+For each <destination station> predict the total <temperature> in all related records
+For each <destination station> predict the total <number of docks in origin station> in all related records
+For each <destination station> predict the total <number of docks in destination station> in all related records
+For each <destination station> predict the total <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the total <temperature> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <temperature> greater than __
+For each <destination station> predict the total <temperature> in all related records with <temperature> greater than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <temperature> greater than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <temperature> greater than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the total <temperature> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the total <temperature> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the total <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <usertype> equal to __
+For each <destination station> predict the total <temperature> in all related records with <usertype> equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <usertype> equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <usertype> equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <gender> equal to __
+For each <destination station> predict the total <temperature> in all related records with <gender> equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <gender> equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <gender> equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <origin station> equal to __
+For each <destination station> predict the total <temperature> in all related records with <origin station> equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <origin station> equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <origin station> equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the total <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <usertype> not equal to __
+For each <destination station> predict the total <temperature> in all related records with <usertype> not equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <gender> not equal to __
+For each <destination station> predict the total <temperature> in all related records with <gender> not equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <gender> not equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <gender> not equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <origin station> not equal to __
+For each <destination station> predict the total <temperature> in all related records with <origin station> not equal to __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <origin station> not equal to __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <origin station> not equal to __
+For each <destination station> predict the total <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the total <temperature> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <temperature> less than __
+For each <destination station> predict the total <temperature> in all related records with <temperature> less than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <temperature> less than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <temperature> less than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the total <temperature> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the total <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the total <temperature> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the total <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the total <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the average <trip duration in minute> in all related records
+For each <destination station> predict the average <temperature> in all related records
+For each <destination station> predict the average <number of docks in origin station> in all related records
+For each <destination station> predict the average <number of docks in destination station> in all related records
+For each <destination station> predict the average <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the average <temperature> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <temperature> greater than __
+For each <destination station> predict the average <temperature> in all related records with <temperature> greater than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <temperature> greater than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <temperature> greater than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the average <temperature> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the average <temperature> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the average <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <usertype> equal to __
+For each <destination station> predict the average <temperature> in all related records with <usertype> equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <usertype> equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <usertype> equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <gender> equal to __
+For each <destination station> predict the average <temperature> in all related records with <gender> equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <gender> equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <gender> equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <origin station> equal to __
+For each <destination station> predict the average <temperature> in all related records with <origin station> equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <origin station> equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <origin station> equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the average <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <usertype> not equal to __
+For each <destination station> predict the average <temperature> in all related records with <usertype> not equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <gender> not equal to __
+For each <destination station> predict the average <temperature> in all related records with <gender> not equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <gender> not equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <gender> not equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <origin station> not equal to __
+For each <destination station> predict the average <temperature> in all related records with <origin station> not equal to __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <origin station> not equal to __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <origin station> not equal to __
+For each <destination station> predict the average <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the average <temperature> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <temperature> less than __
+For each <destination station> predict the average <temperature> in all related records with <temperature> less than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <temperature> less than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <temperature> less than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the average <temperature> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the average <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the average <temperature> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the average <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the average <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records
+For each <destination station> predict the maximum <temperature> in all related records
+For each <destination station> predict the maximum <number of docks in origin station> in all related records
+For each <destination station> predict the maximum <number of docks in destination station> in all related records
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the maximum <temperature> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <temperature> greater than __
+For each <destination station> predict the maximum <temperature> in all related records with <temperature> greater than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <temperature> greater than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <temperature> greater than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the maximum <temperature> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the maximum <temperature> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <usertype> equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <usertype> equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <usertype> equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <usertype> equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <gender> equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <gender> equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <gender> equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <gender> equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <origin station> equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <origin station> equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <origin station> equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <origin station> equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <usertype> not equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <usertype> not equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <gender> not equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <gender> not equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <gender> not equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <gender> not equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <origin station> not equal to __
+For each <destination station> predict the maximum <temperature> in all related records with <origin station> not equal to __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <origin station> not equal to __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <origin station> not equal to __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the maximum <temperature> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <temperature> less than __
+For each <destination station> predict the maximum <temperature> in all related records with <temperature> less than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <temperature> less than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <temperature> less than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the maximum <temperature> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the maximum <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the maximum <temperature> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the maximum <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the maximum <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records
+For each <destination station> predict the minimum <temperature> in all related records
+For each <destination station> predict the minimum <number of docks in origin station> in all related records
+For each <destination station> predict the minimum <number of docks in destination station> in all related records
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the minimum <temperature> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <temperature> greater than __
+For each <destination station> predict the minimum <temperature> in all related records with <temperature> greater than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <temperature> greater than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <temperature> greater than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the minimum <temperature> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the minimum <temperature> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <usertype> equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <usertype> equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <usertype> equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <usertype> equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <gender> equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <gender> equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <gender> equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <gender> equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <origin station> equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <origin station> equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <origin station> equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <origin station> equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <usertype> not equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <usertype> not equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <usertype> not equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <usertype> not equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <gender> not equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <gender> not equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <gender> not equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <gender> not equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <origin station> not equal to __
+For each <destination station> predict the minimum <temperature> in all related records with <origin station> not equal to __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <origin station> not equal to __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <origin station> not equal to __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the minimum <temperature> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <temperature> less than __
+For each <destination station> predict the minimum <temperature> in all related records with <temperature> less than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <temperature> less than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <temperature> less than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the minimum <temperature> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the minimum <trip duration in minute> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the minimum <temperature> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the minimum <number of docks in origin station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the minimum <number of docks in destination station> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records
+For each <destination station> predict the majority <usertype> in all related records
+For each <destination station> predict the majority <gender> in all related records
+For each <destination station> predict the majority <origin station> in all related records
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the majority <usertype> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the majority <gender> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the majority <origin station> in all related records with <trip duration in minute> greater than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <temperature> greater than __
+For each <destination station> predict the majority <usertype> in all related records with <temperature> greater than __
+For each <destination station> predict the majority <gender> in all related records with <temperature> greater than __
+For each <destination station> predict the majority <origin station> in all related records with <temperature> greater than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the majority <usertype> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the majority <gender> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the majority <origin station> in all related records with <number of docks in origin station> greater than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the majority <usertype> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the majority <gender> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the majority <origin station> in all related records with <number of docks in destination station> greater than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the majority <usertype> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the majority <gender> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the majority <origin station> in all related records with <the hour when the trip starts (from 0 to 23)> equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <usertype> equal to __
+For each <destination station> predict the majority <usertype> in all related records with <usertype> equal to __
+For each <destination station> predict the majority <gender> in all related records with <usertype> equal to __
+For each <destination station> predict the majority <origin station> in all related records with <usertype> equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <gender> equal to __
+For each <destination station> predict the majority <usertype> in all related records with <gender> equal to __
+For each <destination station> predict the majority <gender> in all related records with <gender> equal to __
+For each <destination station> predict the majority <origin station> in all related records with <gender> equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <origin station> equal to __
+For each <destination station> predict the majority <usertype> in all related records with <origin station> equal to __
+For each <destination station> predict the majority <gender> in all related records with <origin station> equal to __
+For each <destination station> predict the majority <origin station> in all related records with <origin station> equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the majority <usertype> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the majority <gender> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the majority <origin station> in all related records with <the hour when the trip starts (from 0 to 23)> not equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <usertype> not equal to __
+For each <destination station> predict the majority <usertype> in all related records with <usertype> not equal to __
+For each <destination station> predict the majority <gender> in all related records with <usertype> not equal to __
+For each <destination station> predict the majority <origin station> in all related records with <usertype> not equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <gender> not equal to __
+For each <destination station> predict the majority <usertype> in all related records with <gender> not equal to __
+For each <destination station> predict the majority <gender> in all related records with <gender> not equal to __
+For each <destination station> predict the majority <origin station> in all related records with <gender> not equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <origin station> not equal to __
+For each <destination station> predict the majority <usertype> in all related records with <origin station> not equal to __
+For each <destination station> predict the majority <gender> in all related records with <origin station> not equal to __
+For each <destination station> predict the majority <origin station> in all related records with <origin station> not equal to __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the majority <usertype> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the majority <gender> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the majority <origin station> in all related records with <trip duration in minute> less than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <temperature> less than __
+For each <destination station> predict the majority <usertype> in all related records with <temperature> less than __
+For each <destination station> predict the majority <gender> in all related records with <temperature> less than __
+For each <destination station> predict the majority <origin station> in all related records with <temperature> less than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the majority <usertype> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the majority <gender> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the majority <origin station> in all related records with <number of docks in origin station> less than __
+For each <destination station> predict the majority <the hour when the trip starts (from 0 to 23)> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the majority <usertype> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the majority <gender> in all related records with <number of docks in destination station> less than __
+For each <destination station> predict the majority <origin station> in all related records with <number of docks in destination station> less than __

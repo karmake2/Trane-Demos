@@ -1,0 +1,714 @@
+For each <from_station_id> predict the number of records
+For each <from_station_id> predict the number of records with <tripduration> greater than __
+For each <from_station_id> predict the number of records with <temperature> greater than __
+For each <from_station_id> predict the number of records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the number of records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the number of records with <hour> equal to __
+For each <from_station_id> predict the number of records with <usertype> equal to __
+For each <from_station_id> predict the number of records with <gender> equal to __
+For each <from_station_id> predict the number of records with <to_station_id> equal to __
+For each <from_station_id> predict the number of records with <hour> not equal to __
+For each <from_station_id> predict the number of records with <usertype> not equal to __
+For each <from_station_id> predict the number of records with <gender> not equal to __
+For each <from_station_id> predict the number of records with <to_station_id> not equal to __
+For each <from_station_id> predict the number of records with <tripduration> less than __
+For each <from_station_id> predict the number of records with <temperature> less than __
+For each <from_station_id> predict the number of records with <dpcapacity_start> less than __
+For each <from_station_id> predict the number of records with <dpcapacity_end> less than __
+For each <from_station_id> predict the total <tripduration> in all related records
+For each <from_station_id> predict the total <temperature> in all related records
+For each <from_station_id> predict the total <dpcapacity_start> in all related records
+For each <from_station_id> predict the total <dpcapacity_end> in all related records
+For each <from_station_id> predict the total <tripduration> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the total <temperature> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the total <tripduration> in all related records with <temperature> greater than __
+For each <from_station_id> predict the total <temperature> in all related records with <temperature> greater than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <temperature> greater than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <temperature> greater than __
+For each <from_station_id> predict the total <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the total <temperature> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the total <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the total <temperature> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the total <tripduration> in all related records with <hour> equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <hour> equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <hour> equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <hour> equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <usertype> equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <usertype> equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <usertype> equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <usertype> equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <gender> equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <gender> equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <gender> equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <gender> equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <hour> not equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <hour> not equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <hour> not equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <hour> not equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <gender> not equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <gender> not equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <gender> not equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <gender> not equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the total <temperature> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the total <tripduration> in all related records with <tripduration> less than __
+For each <from_station_id> predict the total <temperature> in all related records with <tripduration> less than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <tripduration> less than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <tripduration> less than __
+For each <from_station_id> predict the total <tripduration> in all related records with <temperature> less than __
+For each <from_station_id> predict the total <temperature> in all related records with <temperature> less than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <temperature> less than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <temperature> less than __
+For each <from_station_id> predict the total <tripduration> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the total <temperature> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the total <tripduration> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the total <temperature> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the average <tripduration> in all related records
+For each <from_station_id> predict the average <temperature> in all related records
+For each <from_station_id> predict the average <dpcapacity_start> in all related records
+For each <from_station_id> predict the average <dpcapacity_end> in all related records
+For each <from_station_id> predict the average <tripduration> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the average <temperature> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the average <tripduration> in all related records with <temperature> greater than __
+For each <from_station_id> predict the average <temperature> in all related records with <temperature> greater than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <temperature> greater than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <temperature> greater than __
+For each <from_station_id> predict the average <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the average <temperature> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the average <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the average <temperature> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the average <tripduration> in all related records with <hour> equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <hour> equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <hour> equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <hour> equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <usertype> equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <usertype> equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <usertype> equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <usertype> equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <gender> equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <gender> equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <gender> equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <gender> equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <hour> not equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <hour> not equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <hour> not equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <hour> not equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <gender> not equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <gender> not equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <gender> not equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <gender> not equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the average <temperature> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the average <tripduration> in all related records with <tripduration> less than __
+For each <from_station_id> predict the average <temperature> in all related records with <tripduration> less than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <tripduration> less than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <tripduration> less than __
+For each <from_station_id> predict the average <tripduration> in all related records with <temperature> less than __
+For each <from_station_id> predict the average <temperature> in all related records with <temperature> less than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <temperature> less than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <temperature> less than __
+For each <from_station_id> predict the average <tripduration> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the average <temperature> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the average <tripduration> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the average <temperature> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the maximum <tripduration> in all related records
+For each <from_station_id> predict the maximum <temperature> in all related records
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records
+For each <from_station_id> predict the maximum <tripduration> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <temperature> greater than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <temperature> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <temperature> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <temperature> greater than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <hour> equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <hour> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <hour> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <hour> equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <usertype> equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <usertype> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <usertype> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <usertype> equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <gender> equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <gender> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <gender> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <gender> equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <hour> not equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <hour> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <hour> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <hour> not equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <gender> not equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <gender> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <gender> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <gender> not equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the maximum <temperature> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <tripduration> less than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <tripduration> less than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <tripduration> less than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <tripduration> less than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <temperature> less than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <temperature> less than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <temperature> less than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <temperature> less than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the maximum <temperature> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the minimum <tripduration> in all related records
+For each <from_station_id> predict the minimum <temperature> in all related records
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records
+For each <from_station_id> predict the minimum <tripduration> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <temperature> greater than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <temperature> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <temperature> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <temperature> greater than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <hour> equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <hour> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <hour> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <hour> equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <usertype> equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <usertype> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <usertype> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <usertype> equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <gender> equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <gender> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <gender> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <gender> equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <hour> not equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <hour> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <hour> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <hour> not equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <gender> not equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <gender> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <gender> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <gender> not equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the minimum <temperature> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <tripduration> less than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <tripduration> less than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <tripduration> less than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <tripduration> less than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <temperature> less than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <temperature> less than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <temperature> less than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <temperature> less than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the minimum <temperature> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the majority <hour> in all related records
+For each <from_station_id> predict the majority <usertype> in all related records
+For each <from_station_id> predict the majority <gender> in all related records
+For each <from_station_id> predict the majority <to_station_id> in all related records
+For each <from_station_id> predict the majority <hour> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the majority <usertype> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the majority <gender> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <tripduration> greater than __
+For each <from_station_id> predict the majority <hour> in all related records with <temperature> greater than __
+For each <from_station_id> predict the majority <usertype> in all related records with <temperature> greater than __
+For each <from_station_id> predict the majority <gender> in all related records with <temperature> greater than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <temperature> greater than __
+For each <from_station_id> predict the majority <hour> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the majority <usertype> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the majority <gender> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <dpcapacity_start> greater than __
+For each <from_station_id> predict the majority <hour> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the majority <usertype> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the majority <gender> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <dpcapacity_end> greater than __
+For each <from_station_id> predict the majority <hour> in all related records with <hour> equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <hour> equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <hour> equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <hour> equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <usertype> equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <usertype> equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <usertype> equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <usertype> equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <gender> equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <gender> equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <gender> equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <gender> equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <to_station_id> equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <hour> not equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <hour> not equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <hour> not equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <hour> not equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <usertype> not equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <gender> not equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <gender> not equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <gender> not equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <gender> not equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the majority <usertype> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the majority <gender> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <to_station_id> not equal to __
+For each <from_station_id> predict the majority <hour> in all related records with <tripduration> less than __
+For each <from_station_id> predict the majority <usertype> in all related records with <tripduration> less than __
+For each <from_station_id> predict the majority <gender> in all related records with <tripduration> less than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <tripduration> less than __
+For each <from_station_id> predict the majority <hour> in all related records with <temperature> less than __
+For each <from_station_id> predict the majority <usertype> in all related records with <temperature> less than __
+For each <from_station_id> predict the majority <gender> in all related records with <temperature> less than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <temperature> less than __
+For each <from_station_id> predict the majority <hour> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the majority <usertype> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the majority <gender> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <dpcapacity_start> less than __
+For each <from_station_id> predict the majority <hour> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the majority <usertype> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the majority <gender> in all related records with <dpcapacity_end> less than __
+For each <from_station_id> predict the majority <to_station_id> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the number of records
+For each <to_station_id> predict the number of records with <tripduration> greater than __
+For each <to_station_id> predict the number of records with <temperature> greater than __
+For each <to_station_id> predict the number of records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the number of records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the number of records with <hour> equal to __
+For each <to_station_id> predict the number of records with <usertype> equal to __
+For each <to_station_id> predict the number of records with <gender> equal to __
+For each <to_station_id> predict the number of records with <from_station_id> equal to __
+For each <to_station_id> predict the number of records with <hour> not equal to __
+For each <to_station_id> predict the number of records with <usertype> not equal to __
+For each <to_station_id> predict the number of records with <gender> not equal to __
+For each <to_station_id> predict the number of records with <from_station_id> not equal to __
+For each <to_station_id> predict the number of records with <tripduration> less than __
+For each <to_station_id> predict the number of records with <temperature> less than __
+For each <to_station_id> predict the number of records with <dpcapacity_start> less than __
+For each <to_station_id> predict the number of records with <dpcapacity_end> less than __
+For each <to_station_id> predict the total <tripduration> in all related records
+For each <to_station_id> predict the total <temperature> in all related records
+For each <to_station_id> predict the total <dpcapacity_start> in all related records
+For each <to_station_id> predict the total <dpcapacity_end> in all related records
+For each <to_station_id> predict the total <tripduration> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the total <temperature> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the total <tripduration> in all related records with <temperature> greater than __
+For each <to_station_id> predict the total <temperature> in all related records with <temperature> greater than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <temperature> greater than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <temperature> greater than __
+For each <to_station_id> predict the total <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the total <temperature> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the total <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the total <temperature> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the total <tripduration> in all related records with <hour> equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <hour> equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <hour> equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <hour> equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <usertype> equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <usertype> equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <usertype> equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <usertype> equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <gender> equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <gender> equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <gender> equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <gender> equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <hour> not equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <hour> not equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <hour> not equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <hour> not equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <gender> not equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <gender> not equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <gender> not equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <gender> not equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the total <temperature> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the total <tripduration> in all related records with <tripduration> less than __
+For each <to_station_id> predict the total <temperature> in all related records with <tripduration> less than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <tripduration> less than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <tripduration> less than __
+For each <to_station_id> predict the total <tripduration> in all related records with <temperature> less than __
+For each <to_station_id> predict the total <temperature> in all related records with <temperature> less than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <temperature> less than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <temperature> less than __
+For each <to_station_id> predict the total <tripduration> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the total <temperature> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the total <tripduration> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the total <temperature> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the total <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the total <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the average <tripduration> in all related records
+For each <to_station_id> predict the average <temperature> in all related records
+For each <to_station_id> predict the average <dpcapacity_start> in all related records
+For each <to_station_id> predict the average <dpcapacity_end> in all related records
+For each <to_station_id> predict the average <tripduration> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the average <temperature> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the average <tripduration> in all related records with <temperature> greater than __
+For each <to_station_id> predict the average <temperature> in all related records with <temperature> greater than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <temperature> greater than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <temperature> greater than __
+For each <to_station_id> predict the average <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the average <temperature> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the average <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the average <temperature> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the average <tripduration> in all related records with <hour> equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <hour> equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <hour> equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <hour> equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <usertype> equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <usertype> equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <usertype> equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <usertype> equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <gender> equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <gender> equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <gender> equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <gender> equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <hour> not equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <hour> not equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <hour> not equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <hour> not equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <gender> not equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <gender> not equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <gender> not equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <gender> not equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the average <temperature> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the average <tripduration> in all related records with <tripduration> less than __
+For each <to_station_id> predict the average <temperature> in all related records with <tripduration> less than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <tripduration> less than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <tripduration> less than __
+For each <to_station_id> predict the average <tripduration> in all related records with <temperature> less than __
+For each <to_station_id> predict the average <temperature> in all related records with <temperature> less than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <temperature> less than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <temperature> less than __
+For each <to_station_id> predict the average <tripduration> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the average <temperature> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the average <tripduration> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the average <temperature> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the average <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the average <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the maximum <tripduration> in all related records
+For each <to_station_id> predict the maximum <temperature> in all related records
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records
+For each <to_station_id> predict the maximum <tripduration> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <temperature> greater than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <temperature> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <temperature> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <temperature> greater than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <hour> equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <hour> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <hour> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <hour> equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <usertype> equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <usertype> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <usertype> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <usertype> equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <gender> equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <gender> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <gender> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <gender> equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <hour> not equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <hour> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <hour> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <hour> not equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <gender> not equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <gender> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <gender> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <gender> not equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the maximum <temperature> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <tripduration> less than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <tripduration> less than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <tripduration> less than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <tripduration> less than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <temperature> less than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <temperature> less than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <temperature> less than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <temperature> less than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the maximum <tripduration> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the maximum <temperature> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the maximum <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the maximum <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the minimum <tripduration> in all related records
+For each <to_station_id> predict the minimum <temperature> in all related records
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records
+For each <to_station_id> predict the minimum <tripduration> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <temperature> greater than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <temperature> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <temperature> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <temperature> greater than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <hour> equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <hour> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <hour> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <hour> equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <usertype> equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <usertype> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <usertype> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <usertype> equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <gender> equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <gender> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <gender> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <gender> equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <hour> not equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <hour> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <hour> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <hour> not equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <gender> not equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <gender> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <gender> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <gender> not equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the minimum <temperature> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <tripduration> less than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <tripduration> less than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <tripduration> less than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <tripduration> less than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <temperature> less than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <temperature> less than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <temperature> less than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <temperature> less than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the minimum <tripduration> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the minimum <temperature> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the minimum <dpcapacity_start> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the minimum <dpcapacity_end> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the majority <hour> in all related records
+For each <to_station_id> predict the majority <usertype> in all related records
+For each <to_station_id> predict the majority <gender> in all related records
+For each <to_station_id> predict the majority <from_station_id> in all related records
+For each <to_station_id> predict the majority <hour> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the majority <usertype> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the majority <gender> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <tripduration> greater than __
+For each <to_station_id> predict the majority <hour> in all related records with <temperature> greater than __
+For each <to_station_id> predict the majority <usertype> in all related records with <temperature> greater than __
+For each <to_station_id> predict the majority <gender> in all related records with <temperature> greater than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <temperature> greater than __
+For each <to_station_id> predict the majority <hour> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the majority <usertype> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the majority <gender> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <dpcapacity_start> greater than __
+For each <to_station_id> predict the majority <hour> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the majority <usertype> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the majority <gender> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <dpcapacity_end> greater than __
+For each <to_station_id> predict the majority <hour> in all related records with <hour> equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <hour> equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <hour> equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <hour> equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <usertype> equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <usertype> equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <usertype> equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <usertype> equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <gender> equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <gender> equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <gender> equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <gender> equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <from_station_id> equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <hour> not equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <hour> not equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <hour> not equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <hour> not equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <usertype> not equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <gender> not equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <gender> not equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <gender> not equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <gender> not equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the majority <usertype> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the majority <gender> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <from_station_id> not equal to __
+For each <to_station_id> predict the majority <hour> in all related records with <tripduration> less than __
+For each <to_station_id> predict the majority <usertype> in all related records with <tripduration> less than __
+For each <to_station_id> predict the majority <gender> in all related records with <tripduration> less than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <tripduration> less than __
+For each <to_station_id> predict the majority <hour> in all related records with <temperature> less than __
+For each <to_station_id> predict the majority <usertype> in all related records with <temperature> less than __
+For each <to_station_id> predict the majority <gender> in all related records with <temperature> less than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <temperature> less than __
+For each <to_station_id> predict the majority <hour> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the majority <usertype> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the majority <gender> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <dpcapacity_start> less than __
+For each <to_station_id> predict the majority <hour> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the majority <usertype> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the majority <gender> in all related records with <dpcapacity_end> less than __
+For each <to_station_id> predict the majority <from_station_id> in all related records with <dpcapacity_end> less than __
